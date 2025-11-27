@@ -1,0 +1,43 @@
+name: 🤖 Scrape AI Coin Data
+
+on:
+  # Allows manual execution from the GitHub UI
+  workflow_dispatch:
+  # Optional: Runs every day at 10:00 AM UTC
+  schedule:
+    - cron: '0 10 * * *'
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+    
+    # CRITICAL: Grant write permission to the GITHUB_TOKEN for pushing changes
+    permissions:
+      contents: write 
+
+    steps:
+      - name: ⏬ Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 🛠️ Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 📦 Install dependencies
+        run: pip install requests pandas beautifulsoup4
+
+      - name: 📝 Save Python Script
+        # Create the Python file directly in the runner environment
+        run: |
+          
+          
+      - name: 🚀 Run Scraper
+        run: python scraper.py
+
+      - name: ⏫ Commit and Push changes
+        # Uses a dedicated action to commit the generated CSV file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Update AI Crypto Social Data"
+          files: AI_Projects.csv
