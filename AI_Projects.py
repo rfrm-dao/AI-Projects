@@ -1,63 +1,68 @@
 import requests
 import pandas as pd
-from bs4 import BeautifulSoup
 import time
 import sys
+import os
 
 # --- CONFIGURATION ---
+# The script will attempt to read the API key from the environment variable
+# set in your GitHub Actions workflow.
+COINGECKO_API_KEY = os.environ.get("CG_API_KEY")
+
+# The base URL for the CoinGecko Pro API
+API_BASE_URL = 'https://pro-api.coingecko.com/api/v3' 
 CATEGORY_ID = 'artificial-intelligence'
-API_URL = f'https://api.coingecko.com/api/v3/coins/markets'
-API_PARAMS = {
-    'vs_currency': 'usd',
-    'category': CATEGORY_ID,
-    'per_page': 250,  # Max number of coins to fetch
-    'page': 1,
-    'order': 'market_cap_desc'
-}
+OUTPUT_FILENAME = 'AI_Projects.csv'
+
+# API headers for authentication
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+    'x-cg-pro-api-key': COINGECKO_API_KEY, # <-- API Key authentication
 }
-OUTPUT_FILENAME = 'ai_crypto_social_data.csv'
 # ---------------------
 
-def get_x_username(coin_id):
-    """Fetches the specific CoinGecko page and extracts the X (Twitter) username."""
-    detail_url = f'https://www.coingecko.com/en/coins/{coin_id}'
+def fetch_coin_details(coin_id):
+    """Fetches full coin details, including the official X (Twitter) handle, using the API."""
+    detail_url = f'{API_BASE_URL}/coins/{coin_id}'
     
-    # Be polite to the server
-    time.sleep(1) 
+    # Use a small sleep delay for politeness, though Pro API limits are higher
+    time.sleep(0.3) 
     
     try:
-        detail_response = requests.get(detail_url, headers=HEADERS, timeout=10)
-        detail_response.raise_for_status()
+        response = requests.get(detail_url, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        details = response.json()
+
+        # The X/Twitter handle is found under 'links' and 'twitter_screen_name'
+        twitter_handle = details.get('links', {}).get('twitter_screen_name', None)
         
-        soup = BeautifulSoup(detail_response.text, 'html.parser')
-        
-        # Target the Twitter link based on common structure near social links
-        # Look for links that contain 'twitter.com'
-        x_link_tag = soup.find('a', href=lambda href: href and 'twitter.com' in href)
-        
-        if x_link_tag and x_link_tag.get('href'):
-            # The URL is typically 'https://twitter.com/username'
-            x_url = x_link_tag['href']
-            # Extract the username (the path segment after the domain)
-            username = x_url.split('/')[-1]
-            return username
-        
-        return 'N/A'
+        return f'@{twitter_handle}' if twitter_handle else 'N/A'
         
     except requests.exceptions.RequestException as e:
-        # 404, 429, or other request errors
-        print(f"  [Error] Failed to fetch {coin_id}: {e}")
+        # Log error and return a placeholder
+        print(f"  [Error] Failed to fetch details for {coin_id} via API: {e}")
         return 'FETCH_ERROR'
 
 def main_scraper():
-    print("--- 🚀 Starting CoinGecko AI Category Scraper ---")
+    if COINGECKO_API_KEY == "YOUR_COINGECKO_API_KEY_HERE":
+        print("❌ ERROR: Please set the COINGECKO_API_KEY environment variable in your workflow secrets.")
+        sys.exit(1)
+        
+    print("--- 🚀 Starting CoinGecko AI Social Data Scraper (PAID API) ---")
     
-    # 1. Fetch main list of coins via CoinGecko API
+    # 1. Get List of Coins in the Category (using Pro API markets endpoint)
+    api_markets_url = f'{API_BASE_URL}/coins/markets'
+    api_params = {
+        'vs_currency': 'usd',
+        'category': CATEGORY_ID,
+        'per_page': 250,
+        'page': 1,
+        'order': 'market_cap_desc'
+    }
+
     try:
-        print(f"1/2: Fetching list of projects from the API...")
-        response = requests.get(API_URL, headers=HEADERS, params=API_PARAMS, timeout=20)
+        print("1/2: Fetching list of all project IDs in the category...")
+        response = requests.get(api_markets_url, headers=HEADERS, params=api_params, timeout=20)
         response.raise_for_status()
         data = response.json()
         
@@ -71,35 +76,37 @@ def main_scraper():
                 'ID': item.get('id'),
                 'Project Name': item.get('name'),
                 'Ticker': item.get('symbol').upper(),
-                'X Username': None # Placeholder for scraping
             })
             
         print(f"✅ Found {len(projects)} projects.")
 
     except requests.exceptions.RequestException as e:
-        print(f"❌ Critical API Error: Could not fetch initial project list. {e}")
+        print(f"❌ Critical API Error while fetching market list: {e}")
         sys.exit(1)
     
-    # 2. Iterate and scrape X (Twitter) username for each project
-    print("2/2: Scraping X username for each project...")
+    # 2. Iterate and fetch details (X username) for each project (API calls)
+    final_data = []
+    print("2/2: Fetching X username for each project...")
     
     for i, project in enumerate(projects):
-        # Calculate progress and print status
+        
+        # Display progress
         progress = f"[{i+1}/{len(projects)}]"
-        print(f"{progress} Scraping: {project['Project Name']} ({project['Ticker']})", end='\r', flush=True)
+        print(f"{progress} Processing: {project['Project Name']} ({project['Ticker']})", end='\r', flush=True)
         
-        # Pass the unique coin ID (e.g., 'render-token') to the helper function
-        username = get_x_username(project['ID'])
+        # Call the new API detail fetching function
+        x_username = fetch_coin_details(project['ID'])
         
-        # Save the result
-        project['X Username'] = f'@{username}' if username not in ('N/A', 'FETCH_ERROR') else username
+        final_data.append({
+            'Project Name': project['Project Name'],
+            'Ticker': project['Ticker'],
+            'X Username': x_username
+        })
     
-    print("\n✅ Scraping complete.")
+    print("\n✅ Detail fetching complete.")
     
     # 3. Save to CSV
-    df = pd.DataFrame(projects)
-    # Remove the internal CoinGecko ID from the final output
-    df.drop(columns=['ID'], inplace=True) 
+    df = pd.DataFrame(final_data)
     
     df.to_csv(OUTPUT_FILENAME, index=False)
     print(f"\n🎉 Success! Data saved to **{OUTPUT_FILENAME}**")
