@@ -31,7 +31,7 @@ jobs:
       - name: 🚀 Run Scraper
         # IMPORTANT: If your key is a secret, add the 'env' block here:
         env:
-          COINGECKO_API_KEY: ${{ secrets.CG_API_KEY }}
+          CG_API_KEY: ${{ secrets.CG_API_KEY }}
         
         # Running the correct script name:
         run: python AI_Projects.py
