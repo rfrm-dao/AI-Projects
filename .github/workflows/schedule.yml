@@ -34,7 +34,7 @@ jobs:
           COINGECKO_API_KEY: ${{ secrets.CG_API_KEY }}
         
         # Running the correct script name:
-        run: python AI_projects.py 
+        run: python AI_Projects.py
 
       - name: ⏫ Commit and Push changes
         # Uses a dedicated action to commit the generated CSV file
