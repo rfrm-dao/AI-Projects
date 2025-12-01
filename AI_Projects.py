@@ -4,88 +4,106 @@ import time
 import sys
 import os
 
-# --- CONFIGURATION ---
-CG_API_KEY = os.environ.get("CG_API_KEY")  # GitHub Secret value
+# === CONFIG ===
+CG_API_KEY_VALUE = os.environ.get("CG_API_KEY")
 API_BASE_URL = 'https://pro-api.coingecko.com/api/v3'
 CATEGORY_ID = 'artificial-intelligence'
 OUTPUT_FILENAME = 'AI_Projects.csv'
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0',
-    'x-cg-pro-api-key': CG_API_KEY,
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+    'x-cg-pro-api-key': CG_API_KEY_VALUE,
 }
-# ---------------------
 
-
-def fetch_twitter_handle(coin_id):
-    """Returns the twitter handle for a given CoinGecko ID"""
+def fetch_coin_details(coin_id):
     url = f'{API_BASE_URL}/coins/{coin_id}'
-    time.sleep(0.25)
+    time.sleep(0.3)
 
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         r.raise_for_status()
-        details = r.json()
+        data = r.json()
+        twitter = data.get("links", {}).get("twitter_screen_name")
 
-        tw = details.get('links', {}).get('twitter_screen_name')
-        if tw:
-            return f'@{tw}'
-        else:
-            return 'N/A'
+        return f"@{twitter}" if twitter else "N/A"
+    
+    except:
+        return "FETCH_ERROR"
 
-    except Exception as e:
-        print(f"Error fetching details for {coin_id}: {e}")
-        return "ERROR"
+def fetch_full_ai_list():
+    print(f"🚀 Fetching full list of AI category coins (no limit)")
+
+    all_projects = []
+    page = 1
+
+    while True:
+        params = {
+            'vs_currency': 'usd',
+            'category': CATEGORY_ID,
+            'per_page': 250,
+            'page': page,
+            'order': 'market_cap_desc'
+        }
+
+        try:
+            r = requests.get(f"{API_BASE_URL}/coins/markets", headers=HEADERS, params=params)
+            r.raise_for_status()
+            data = r.json()
+
+        except Exception as e:
+            print(f"⚠️ Error on page {page}: {e}")
+            break
+
+        # If API returns no more data → stop
+        if not data:
+            break
+
+        for item in data:
+            all_projects.append({
+                'ID': item.get('id'),
+                'Project Name': item.get('name'),
+                'Ticker': item.get('symbol').upper(),
+            })
+
+        print(f"📦 Page {page} fetched → +{len(data)} tokens (Total: {len(all_projects)})")
+
+        page += 1
+        time.sleep(0.25)
+
+    print(f"✔️ Completed pagination — total {len(all_projects)} AI tokens found\n")
+    return all_projects
 
 
-def main():
-    if not CG_API_KEY:
-        print("❌ ERROR: No CoinGecko API key found. Define CG_API_KEY in system or GitHub Secrets.")
+def main_scraper():
+    if not CG_API_KEY_VALUE:
+        print("❌ ERROR: Missing CG API key")
         sys.exit(1)
 
-    print("🚀 Fetching AI category coins from CoinGecko...")
+    print("--- STARTING AI SCRAPER ---")
 
-    url = f"{API_BASE_URL}/coins/markets"
-    params = {
-        "vs_currency": "usd",
-        "category": CATEGORY_ID,
-        "per_page": 250,
-        "page": 1,
-    }
+    # Step 1: fetch all pages
+    projects = fetch_full_ai_list()
 
-    try:
-        r = requests.get(url, headers=HEADERS, params=params, timeout=10)
-        r.raise_for_status()
-        coins = r.json()
-
-    except Exception as e:
-        print(f"❌ API error requesting category list: {e}")
-        sys.exit(1)
-
-    print(f"✅ Found {len(coins)} AI coins\n")
-
+    # Step 2: fetch twitter handles
     final = []
-    for idx, c in enumerate(coins):
-        coin_id = c.get('id')
-        coin_name = c.get('name')
-        coin_symbol = c.get('symbol').upper()
+    for i, project in enumerate(projects):
+        print(f"[{i+1}/{len(projects)}] {project['Project Name']}   ", end="\r")
 
-        print(f"[{idx+1}/{len(coins)}] {coin_name} ({coin_symbol})")
-
-        twitter = fetch_twitter_handle(coin_id)
+        twitter = fetch_coin_details(project["ID"])
 
         final.append({
-            "Project": coin_name,
-            "Ticker": coin_symbol,
-            "Twitter": twitter,
-            "CoinGecko ID": coin_id
+            "Project Name": project["Project Name"],
+            "Ticker": project["Ticker"],
+            "X Username": twitter
         })
 
+    print("\n✔️ Twitter scraping finished")
+
+    # Step 3: save
     df = pd.DataFrame(final)
     df.to_csv(OUTPUT_FILENAME, index=False)
-
-    print(f"\n🎉 Done! Saved {len(df)} entries to {OUTPUT_FILENAME}")
+    print(f"💾 Saved → {OUTPUT_FILENAME}")
 
 
 if __name__ == "__main__":
-    main()
+    main_scraper()
