@@ -9,7 +9,7 @@ import os
 CG_API_KEY_VALUE = os.environ.get("CG_API_KEY") # Reads directly from GitHub Secret
 
 # The base URL for the CoinGecko Pro API
-API_BASE_URL = 'https://pro-api.coingecko.com/api/v3' 
+API_BASE_URL = 'https://pro-api.coingecko.com/api/v3'
 CATEGORY_ID = 'artificial-intelligence'
 OUTPUT_FILENAME = 'AI_Projects.csv'
 
