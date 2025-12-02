@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # Runs every day at 10:00 AM UTC
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10 */3 * *'
 
 jobs:
   scrape_and_push:
