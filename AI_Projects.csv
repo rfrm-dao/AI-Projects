@@ -1,1326 +1,1341 @@
 Project Name,Ticker,X Username
+Chainlink,LINK,@chainlink
 Bittensor,TAO,@opentensor
 NEAR Protocol,NEAR,@nearprotocol
 Internet Computer,ICP,@dfinity
-pippin,PIPPIN,@pippinlovesyou
 Render,RENDER,@rendernetwork
-Kite,KITE,@GoKiteAI
-Virtuals Protocol,VIRTUAL,@virtuals_io
-Story,IP,@StoryProtocol
 Artificial Superintelligence Alliance,FET,@ASI_Alliance
+Virtuals Protocol,VIRTUAL,@virtuals_io
+Kite,KITE,@GoKiteAI
+Venice Token,VVV,@AskVenice
 The Graph,GRT,@graphprotocol
+Story,IP,@StoryProtocol
+Grass,GRASS,@grass
 Theta Network,THETA,@Theta_Network
 Sentient,SENT,@SentientAGI
-Venice Token,VVV,@AskVenice
-Golem,GLM,@golemproject
-0G,0G,@0G_Foundation
 OriginTrail,TRAC,@origin_trail
-Arweave,AR,@arweaveeco
-Livepeer,LPT,@Livepeer
-Unibase,UB,@Unibase_AI
-AWE Network,AWE,@awenetwork_ai
-Pieverse,PIEVERSE,@pieverse_io
-AI Rig Complex,ARC,@arcdotfun
-Theta Fuel,TFUEL,@Theta_Network
-Aethir,ATH,@AethirCloud
-Grass,GRASS,@grass
 Akash Network,AKT,@akashnet
-Quack AI,Q,@QuackAI_AI
+τemplar,SN3,N/A
 Chutes,SN64,@chutes_ai
-AIOZ Network,AIOZ,@aioznetwork
-KAITO,KAITO,@kaitoai
-Alchemist AI,ALCH,@alchemistAIapp
-Everlyn,LYN,@everlyn_ai
+Golem,GLM,@golemproject
+EigenCloud (prev. EigenLayer),EIGEN,@eigenlayer
+Aethir,ATH,@AethirCloud
 Qubic,QUBIC,@_Qubic_
+Arweave,AR,@arweaveeco
+Pieverse,PIEVERSE,@pieverse_io
+0G,0G,@0G_Foundation
+Livepeer,LPT,@Livepeer
+AWE Network,AWE,@awenetwork_ai
+KAITO,KAITO,@kaitoai
+Targon,SN4,@manifoldlabs
+Theta Fuel,TFUEL,@Theta_Network
+Unibase,UB,@Unibase_AI
+pippin,PIPPIN,@pippinlovesyou
+AIOZ Network,AIOZ,@aioznetwork
+Sahara AI,SAHARA,@SaharaAI
+affine,SN120,N/A
+TAGGER,TAG,@taggerai
+Alchemist AI,ALCH,@alchemistAIapp
 Arkham,ARKM,@arkham
 UnifAI Network,UAI,@UnifaiNetwork
 ChainOpera AI,COAI,@ChainOpera_AI
-QuantixAI,QAI,@QuantixCapital
-BankrCoin,BNKR,@bankrbot
 Law Blocks AI,LBT,@lawblockstoken
-ZIGChain,ZIG,@ZIGChain
-Singularry,SINGULARRY,@singularryai
-Lagrange,LA,@lagrangefndn
-Vana,VANA,@vana
-Victoria VR,VR,@VictoriaVR
-Sahara AI,SAHARA,@SaharaAI
 IoTeX,IOTX,@iotex_io
-TAGGER,TAG,@taggerai
+Fabric Protocol,ROBO,@FabricFND
+lium,SN51,@lium_io
+Quack AI,Q,@QuackAI_AI
+QuantixAI,QAI,@QuantixCapital
+Ridges AI,SN62,N/A
+AI Rig Complex,ARC,@arcdotfun
+Proprietary Trading Network,SN8,@taoshiio
+iota,SN9,N/A
+Score,SN44,@webuildscore
+ZIGChain,ZIG,@ZIGChain
+Vana,VANA,@vana
+Hippius,SN75,@hippius_subnet
+Lagrange,LA,@lagrangefndn
+BankrCoin,BNKR,@bankrbot
+OpenLedger,OPEN,@OpenledgerFdn
+Freysa AI,FAI,@freysa_ai
+Singularry,SINGULARRY,@singularryai
 SQD,SQD,@hellosqd
 Auki,AUKI,@Auki
-CYBER,CYBER,@BuildOnCyber
-affine,SN120,N/A
-OpenLedger,OPEN,@OpenledgerFdn
 io.net,IO,@ionet
-Targon,SN4,@manifoldlabs
-Ridges AI,SN62,N/A
-Proprietary Trading Network,SN8,@taoshiio
-CARV,CARV,@carv_official
-tokenbot,CLANKER,N/A
-Zentry,ZENT,@zentry
-IQ,IQ,@IQAICOM
+Diem,DIEM,@AskVenice
+Victoria VR,VR,@VictoriaVR
+CYBER,CYBER,@BuildOnCyber
+PHALA,PHA,@PhalaNetwork
 iExec RLC,RLC,@iEx_ec
-Secret,SCRT,@secretnetwork
-Score,SN44,@webuildscore
-lium,SN51,@lium_io
+CARV,CARV,@carv_official
+Nosana,NOS,@nosana_ai
+Gradients,SN56,N/A
+IQ,IQ,@IQAICOM
 Delysium,AGI,@The_Delysium
-Flux,FLUX,@runonflux
-Acurast,ACU,N/A
-Rei,REI,@rei_labs
-τemplar,SN3,N/A
-Amiko,AMIKO,@Hey_Amiko
-ao Computer,AO,@aoTheComputer
-Sapien,SAPIEN,@joinsapien
-Velvet,VELVET,@velvet_capital
 dKargo,DKA,@dKargo_Official
-Holoworld,HOLO,@HoloworldAI
-Treasure,MAGIC,N/A
+NOVA,SN68,@metanova_labs
+Amiko,AMIKO,@Hey_Amiko
+basilica,SN39,@basilic_ai
+Secret,SCRT,@secretnetwork
+grail,SN81,@grail_ai
+Zentry,ZENT,@zentry
+SingularityNET,AGIX,@SingularityNET
 Allora,ALLO,@AlloraNetwork
+OMEGA Labs,SN24,@omegalabsai
+tokenbot,CLANKER,N/A
 Ocean Protocol,OCEAN,@oceanprotocol
+Velvet,VELVET,@velvet_capital
+aixbt,AIXBT,@aixbt_agent
+Nineteen.ai,SN19,N/A
+Acurast,ACU,N/A
+Treasure,MAGIC,N/A
+Rei,REI,@rei_labs
+Swarm Network,TRUTH,@GetSwarmed
+ao Computer,AO,@aoTheComputer
+Flux,FLUX,@runonflux
+Holoworld,HOLO,@HoloworldAI
+Mira,MIRA,@miranetwork
+Sapien,SAPIEN,@joinsapien
+Coldint,SN29,N/A
+BitMind,SN34,@BitMindAI
+Marlin,POND,@marlinprotocol
+Destra Network,DSYNC,@destranetwork
+ChainGPT,CGPT,@Chain_GPT
 FLOCK,FLOCK,@flock_io
 INFINIT,IN,@Infinit_Labs
-Marlin,POND,@marlinprotocol
-Swarm Network,TRUTH,@GetSwarmed
-PHALA,PHA,@PhalaNetwork
-aixbt,AIXBT,@aixbt_agent
-Destra Network,DSYNC,@destranetwork
-Capx AI,CAPX,@0xcapx
-Diem,DIEM,@AskVenice
-SingularityNET,AGIX,@SingularityNET
-Elsa,ELSA,@HeyElsaAI
-Hippius,SN75,@hippius_subnet
 OlaXBT,AIO,@olaxbt_terminal
-Mira,MIRA,@miranetwork
-ChainGPT,CGPT,@Chain_GPT
-Arcblock,ABT,@ArcBlock_io
-Gradients,SN56,N/A
-iota,SN9,N/A
-Chromia,CHR,@chromia
-Kled AI,KLED,@useKled
-Foom,FOOM,@foomclub
-Newton Protocol,NEWT,@newtfoundation
-Nillion,NIL,@nillion
-PAAL AI,PAAL,@PaalMind
-Artificial Liquid Intelligence,ALI,@real_alethia
-Codatta,XNY,@codatta_io
-Nosana,NOS,@nosana_ai
-World Friendship Cash,WFCA,@wfca_global
-Cookie DAO,COOKIE,@cookiedotfun
-Recall,RECALL,@recallnet
-Vanar Chain,VANRY,@Vanarchain
-Freysa AI,FAI,@freysa_ai
-Assemble AI,ASM,@Assemble_io
-AdEx,ADX,@AdEx_Network
-OpenKaito,SN5,N/A
-basilica,SN39,@basilic_ai
-Saga,SAGA,@Sagaxyz__
-Rainmaker,RAIN,@rainmakerdotfun
-Nineteen.ai,SN19,N/A
-Oraichain,ORAI,@oraichain
-GAME by Virtuals,GAME,@GAME_Virtuals
-Wayfinder,PROMPT,@AIWayfinder
-The Innovation Game,TIG,@tigfoundation
-BitMind,SN34,@BitMindAI
-Hey Anon,ANON,@HeyAnonai
-Coldint,SN29,N/A
-Forta,FORT,@FortaNetwork
-LimeWire,LMWR,@limewire
-ElizaOS,ELIZAOS,@ElizaEcoFund
-Cudos,CUDOS,@CUDOS_
-Autonolas,OLAS,@autonolas
-Phoenix,PHB,@Phoenix_Chain
-Solidus Ai Tech,AITECH,@AITECHio
-KellyClaude,KELLYCLAUDE,@KellyClaud90827
-OpenServ,SERV,@openservai
-DeAgentAI,AIA,@DeAgentAI
-Chainbase,C,@ChainbaseHQ
-O Intelligence Coin,OI,@O_fndn
-Galeon,GALEON,@GaleonCare
-NOVA,SN68,@metanova_labs
-404—GEN,SN17,@404gen_
-grail,SN81,@grail_ai
-Infinity Ground,AIN,@infinityg_ai
-MyShell,SHELL,@myshell_ai
-MIA,MIA,@mwa_ia
-Phoenix Global [OLD],PHB,@Phoenix_Chain
-GRIFFAIN,GRIFFAIN,@griffaindotcom
-RSS3,RSS3,@rss3_
-Wrapped Hypertensor,TENSOR,@hyper_tensor
-GaiAI,GAIX,@GaiAIio
-Apex,SN1,@macrocosmosai
-Akedo,AKE,@akedofun
-TARS AI,TAI,@tarsprotocol
-Pundi AI,PUNDIAI,@PundiAI
-Mind Network,FHE,@mindnetwork_xyz
-DOLZ.io,DOLZ,@Dolz_official
-Lobstar,LOBSTAR,@LobstarWilde
-Morphware,XMW,@MorphwareAI
-Dippy,SN11,@dippy_ai
-Synth,SN50,N/A
-Trusta AI,TA,@TrustaLabs
-Ava AI,AVA,@AVA_holo
-GAIB,GAIB,@gaib_ai
-Cognify,SN115,N/A
-MESSIER,M87,@MessierM87
-Data Universe,SN13,@macrocosmosai
-clawd.atg.eth,CLAWD,@clawdbotatg
-CLAWNCH,CLAWNCH,@ClawnchDev
-Daydreams,DREAMS,@daydreamsagents
-ReadyAI,SN33,@ReadyAI_
-Swarms,SWARMS,@swarms_corp
-PinLink,PIN,@pinlinkai
-Agoras: Tau Net,AGRS,N/A
-World3,WAI,@WORLD3_AI
-TAOHash,SN14,@taohash
-Bluwhale,BLUAI,@bluwhaleai
-GamerCoin,GHX,@GamerHashCom
-Mamo,MAMO,@mamo
-OKZOO,AIOT,@okzoo_app
-Omron,SN2,@inference_labs
-REPPO,REPPO,@Reppo
-KRYLL,KRL,@kryll_io
+Capx AI,CAPX,@0xcapx
 Vidaio,SN85,@vidaio_
-SentismAI,SENTIS,@Sentism_ai
-Talus,US,@Talus_Labs
-OORT,OORT,@oortech
-FAR Labs,FAR,@FARLabsAI
 Bitcast,SN93,@Bitcast_network
-Dojo,SN52,@TensorplexLabs
-Covalent X Token,CXT,@Covalent_HQ
-Humans.ai,HEART,@humansdotai
-TriasLab,TRIAS,@triaslab
-Infinite Games,SN6,@Playinfgames
-Torus,TORUS,@torus_network
+Apex,SN1,@macrocosmosai
+Arcblock,ABT,@ArcBlock_io
+Nillion,NIL,@nillion
+OpenKaito,SN5,N/A
+404—GEN,SN17,@404gen_
 Quantum Innovate,SN63,@qBitTensorLabs
-NetX,NETX,@netx_world
-Kora,SN71,N/A
-NEURALAI,NEURAL,@goneuralai
-NetMind Token,NMT,@NetmindAi
-GENIUS AI,GNUS,N/A
+Newton Protocol,NEWT,@newtfoundation
+Elsa,ELSA,@HeyElsaAI
+Kled AI,KLED,@useKled
+Dippy,SN11,@dippy_ai
+PAAL AI,PAAL,@PaalMind
+Everlyn,LYN,@everlyn_ai
+Chromia,CHR,@chromia
+Artificial Liquid Intelligence,ALI,@real_alethia
+Synth,SN50,N/A
+Data Universe,SN13,@macrocosmosai
+Hey Anon,ANON,@HeyAnonai
+ReadyAI,SN33,@ReadyAI_
+Vanar Chain,VANRY,@Vanarchain
+Cookie DAO,COOKIE,@cookiedotfun
+TAOHash,SN14,@taohash
+Codatta,XNY,@codatta_io
+Infinity Ground,AIN,@infinityg_ai
+Autonolas,OLAS,@autonolas
+FAR Labs,FAR,@FARLabsAI
+Saga,SAGA,@Sagaxyz__
+Recall,RECALL,@recallnet
+Assemble AI,ASM,@Assemble_io
+Trusta AI,TA,@TrustaLabs
+World Friendship Cash,WFCA,@wfca_global
+TARS AI,TAI,@tarsprotocol
+Solidus Ai Tech,AITECH,@AITECHio
 Zeus,SN18,N/A
-Cartha,SN35,@0x_Markets
-Thought,THT,@thought_THT
-GIZA,GIZA,@gizatechxyz
-Altura,ALU,@altura
+AdEx,ADX,@AdEx_Network
+GAME by Virtuals,GAME,@GAME_Virtuals
+Chainbase,C,@ChainbaseHQ
+Kora,SN71,N/A
+GRIFFAIN,GRIFFAIN,@griffaindotcom
+Omron,SN2,@inference_labs
+Infinite Games,SN6,@Playinfgames
+Oraichain,ORAI,@oraichain
+Dojo,SN52,@TensorplexLabs
+Foom,FOOM,@foomclub
+LimeWire,LMWR,@limewire
 Sturdy,SN10,N/A
+Forta,FORT,@FortaNetwork
 EfficientFrontier,SN53,N/A
-Sportstensor,SN41,@sportstensor
-tao.bot,TAOBOT,@taodotbot
 Morpheus AI,MOR,@MorpheusAIs
-Graphite,SN43,@GraphiteSubnet
-Gittensor,SN74,@gittensor_io
-NATIX Network,NATIX,@NATIXNetwork
-Metacade,MCADE,@Metacade_
-OMEGA Labs,SN24,@omegalabsai
-Theoriq,THQ,@TheoriqAI
-Storb,SN26,N/A
-FELIX,FELIX,@FelixCraftAI
+DeAgentAI,AIA,@DeAgentAI
 Compute Horde,SN12,@ComputeHorde
-Bitsec.ai,SN60,@bitsecai
-WebGenieAI,SN54,N/A
-Agent Arena by Masa,SN59,N/A
-Handshake,SN58,N/A
-HUMAN Protocol,HMT,@human_protocol
-Warden,WARD,@wardenprotocol
-AI Network,AIN,@ainetwork_ai
-Quantum Compute,SN48,@OpenQuantum_
-OctaSpace,OCTA,@octa_space
-Aleph Cloud,ALEPH,@aleph_im
-Bitads,SN16,N/A
-Numbers Protocol,NUM,@numbersprotocol
-375ai,EAT,@375ai_
-Mainframe,SN25,@MacrocosmosAI
-Silencio,SLC,@silencioNetwork
-IceCream AI,ICECREAM,@kol4u_xyz
-Sogni AI,SOGNI,@Sogni_Protocol
-RedTeam,SN61,N/A
-Dolphin,DPHN,@dphnAI
-Liquidity,SN77,N/A
-CreatorBid,BID,@CreatorBid
-DeepNode,DN,@DeepNodeAI
+tao.bot,TAOBOT,@taodotbot
+OpenServ,SERV,@openservai
+Graphite,SN43,@GraphiteSubnet
+MIA,MIA,@mwa_ia
+Galeon,GALEON,@GaleonCare
+Gittensor,SN74,@gittensor_io
 OMEGA Any-to-Any,SN21,N/A
-SubVortex,SN7,N/A
-Dynex,DNX,@dynexcoin
-Imagen Network,IMAGE,N/A
-Desearch,SN22,N/A
-Spectre AI,SPECTRE,@Spectre__AI
-MetYa,MY,@metyacom
-RESI,SN46,@goneuralai
-Real-Time Data by Masa,SN42,@getmasafi
-Neuron,NRN,@NRNAgents
-GLADIUS,GLADIUS,@ArenaGladius
-ItsAI,SN32,N/A
-Swarm,SN124,N/A
-BitAgent - Rizzo,SN20,N/A
-Vericore,SN70,N/A
-Avo,AVO,@avodotso
-PublicAI,PUBLIC,@PublicAI_
-FROK,FROK,@frok_ai
-Aurelius,SN37,@AureliusAligned
-VIVI COIN,VIVI,@lh_vivi_
-Immunefi,IMU,@immunefi
-SWE - Rizzo,SN45,@gen42ai
-Web Agents - Autoppia,SN36,@AutoppiaAI
-Nuance,SN23,N/A
-Sundae_Bar,SN121,N/A
-Opus Genesis,OPUS,@opus_universe
-TAO Private Network,SN65,@SN65_TPN
-Merit,SN73,N/A
-Agent Hustle,HUSTLE,@AgentHustleAI
-Coral Protocol,CORAL,@Coral_Protocol
-VoidAI,SN106,@v0idai
-Sleepless AI,AI,@SleeplessAI_Lab
-NodeAI,GPU,@NodeAIETH
-Presearch,PRE,@presearchnews
+Bluwhale,BLUAI,@bluwhaleai
+WebGenieAI,SN54,N/A
+MyShell,SHELL,@myshell_ai
+The Innovation Game,TIG,@tigfoundation
+SentismAI,SENTIS,@Sentism_ai
+Cartha,SN35,@0x_Markets
 FakeNews,SN66,N/A
-StreetVision by NATIX,SN72,@NATIXNetwork
-Gaia,SN57,@Gaia_AI_
-Spectral,SPEC,@Spectral_Labs
-Bettensor,SN30,@Bettensor
-Precog,SN52,@CM_Precog
-VAIOT,VAI,@vaiot_ltd
-Gaia,GAIA,@Gaianet_AI
-8 Ball,SN125,N/A
+Quantum Compute,SN48,@OpenQuantum_
+Phoenix Global [OLD],PHB,@Phoenix_Chain
+DOLZ.io,DOLZ,@Dolz_official
+Wayfinder,PROMPT,@AIWayfinder
+RESI,SN46,@goneuralai
+Desearch,SN22,N/A
+SubVortex,SN7,N/A
+Mainframe,SN25,@MacrocosmosAI
+Swarms,SWARMS,@swarms_corp
+Ava AI,AVA,@AVA_holo
+Agent Arena by Masa,SN59,N/A
+Phoenix,PHB,@Phoenix_Chain
 Sταking,SN88,@StakingAlpha88
-NI Compute,SN27,@neural_internet
-Hermes,SN82,N/A
-Loosh,SN78,@loosh_ai
-Agent Zero Token,A0T,N/A
-Permission Coin,ASK,@permissionIO
-τaos,SN79,@taos_im
-Mantis,SN123,N/A
-Chunking,SN40,N/A
-PaLM AI,PALM,@palmaierc
-Xterio,XTER,@XterioGames
-AstraAI,ASTRA,N/A
-Dino Tycoon,TYCOON,@DinoTycoon_Web3
-InfiniteHash,SN89,N/A
-Caesar,CAESAR,@caesar_data
-Strawberry AI,BERRY,@StrawberryAI_5
-ForeverMoney,SN98,@forevermoney_ai
-LushAI,LUSH,@LushAIAgency
-SIRE,SIRE,@sire_agent
-Botto,BOTTO,@bottoproject
-Empyreal,EMP,@EmpyrealSDK
-Opulous,OPUL,@opulousapp
-Codec Flow,CODEC,@Codecopenflow
-bitsCrunch Token,BCUT,@bitscrunch
-FLock OFF,SN96,N/A
-Vertical AI,VERTAI,N/A
-Docs-Insights (Taτsu),SN84,@TatsuEcosystem
-ArAIstotle,FACY,@ArAIstotle
-MangaNow,MGN,@manganow_jp
-Cod3x,CDX,@Cod3xOrg
-Moltbook,MOLT,@moltbook
-HappyAI,SN103,@Smile_mem
-Ethy AI,ETHY,@ethy_agent
-HyperGPT,HGPT,@hypergpt
-Vader,VADER,@Vader_AI_
-Cere Network,CERE,@cereofficial
-FlameWire,SN97,@FlameWire_SN
-Oneoneone,SN111,N/A
+Storb,SN26,N/A
+RedTeam,SN61,N/A
+Mamo,MAMO,@mamo
+PinLink,PIN,@pinlinkai
+Sportstensor,SN41,@sportstensor
+Bitsec.ai,SN60,@bitsecai
+375ai,EAT,@375ai_
+ElizaOS,ELIZAOS,@ElizaEcoFund
+Agoras: Tau Net,AGRS,N/A
+Bettensor,SN30,@Bettensor
+O Intelligence Coin,OI,@O_fndn
+Handshake,SN58,N/A
+Nuance,SN23,N/A
+Bitads,SN16,N/A
+Swarm,SN124,N/A
+Torus,TORUS,@torus_network
+Wrapped Hypertensor,TENSOR,@hyper_tensor
+World3,WAI,@WORLD3_AI
+TAO Private Network,SN65,@SN65_TPN
+KRYLL,KRL,@kryll_io
+Daydreams,DREAMS,@daydreamsagents
+OORT,OORT,@oortech
+Liquidity,SN77,N/A
+Aurelius,SN37,@AureliusAligned
+NetX,NETX,@netx_world
+MESSIER,M87,@MessierM87
 Cel AI,SN127,N/A
-Plaτform,SN100,N/A
-Arai,AA,@ARAI_Systems
-Orgo,ORGO,@spncrk
-NodeOps,NODE,@NodeOpsHQ
-Clore.ai,CLORE,@clore_ai
-1000x by Virtuals,1000X,@1000xAgent
-minotaur,SN112,N/A
-OPEN GPU,OGPU,@openGPUnetwork
+GamerCoin,GHX,@GamerHashCom
+Real-Time Data by Masa,SN42,@getmasafi
+Pundi AI,PUNDIAI,@PundiAI
+NI Compute,SN27,@neural_internet
+NEURALAI,NEURAL,@goneuralai
+ItsAI,SN32,N/A
+SWE - Rizzo,SN45,@gen42ai
+Covalent X Token,CXT,@Covalent_HQ
+Mind Network,FHE,@mindnetwork_xyz
+TriasLab,TRIAS,@triaslab
+Merit,SN73,N/A
+StreetVision by NATIX,SN72,@NATIXNetwork
+RSS3,RSS3,@rss3_
+Mantis,SN123,N/A
+Lobstar,LOBSTAR,@LobstarWilde
+Humans.ai,HEART,@humansdotai
+Precog,SN52,@CM_Precog
+Akedo,AKE,@akedofun
+NetMind Token,NMT,@NetmindAi
+Thought,THT,@thought_THT
+Rainmaker,RAIN,@rainmakerdotfun
+Gaia,SN57,@Gaia_AI_
+Web Agents - Autoppia,SN36,@AutoppiaAI
+BitAgent - Rizzo,SN20,N/A
+GAIB,GAIB,@gaib_ai
 Edge,EDGE,@edgenetwork
-METAVERSE,METAV,@aipool_tee
+Chunking,SN40,N/A
+InfiniteHash,SN89,N/A
+GaiAI,GAIX,@GaiAIio
+Sundae_Bar,SN121,N/A
+Oneoneone,SN111,N/A
+HappyAI,SN103,@Smile_mem
+τaos,SN79,@taos_im
+GENIUS AI,GNUS,N/A
+Altura,ALU,@altura
+OctaSpace,OCTA,@octa_space
+Numbers Protocol,NUM,@numbersprotocol
+VoidAI,SN106,@v0idai
+Talus,US,@Talus_Labs
+Theoriq,THQ,@TheoriqAI
+Hermes,SN82,N/A
+clawd.atg.eth,CLAWD,@clawdbotatg
+ForeverMoney,SN98,@forevermoney_ai
+Loosh,SN78,@loosh_ai
+Plaτform,SN100,N/A
+Docs-Insights (Taτsu),SN84,@TatsuEcosystem
+Metacade,MCADE,@Metacade_
+Aleph Cloud,ALEPH,@aleph_im
+8 Ball,SN125,N/A
 Ovr,OVR,@OVRtheReality
-Wasabot,BOT,@wasadotbot
-Aubrai by Bio,AUBRAI,@Aubrai_
-Soul Graph,GRPH,@soulgra_ph
-Satori,SN119,N/A
-BasedAI,BASEDAI,@getbasedai
-BetterTherapy,SN102,@BetterTherapyAI
-Tensorplex Staked TAO,STTAO,@TensorplexLabs
-Waveform by Virtuals,WAVE,@WaveformBackup
-Panther AI,PAI,@pantherappai
-Dexter AI,DEXTER,@dexteraisol
-GraphLinq Chain,GLQ,@graphlinq_proto
-AntiHunter,ANTIHUNTER,@AntiHunter59823
-Inspect,INSP,@inspectxyz
-Effect AI,EFFECT,@effectaix
-KONDUX,KNDX,@Kondux_KNDX
-Cortensor,COR,@cortensor
-Heurist,HEU,@heurist_ai
-Jackal Protocol,JKL,@Jackal_Protocol
-tensorprox,SN91,@shugoio
-KLEVA,KLEVA,@Kleva_AI
-StrikeBit AI,STRIKE,@StrikeBitDeFI
-Captain Kuma,KUMA,@BetakkumaAI
-BORT,BORT,@BortOnBsc
-Alphakek,AIKEK,@alphakek
-Somnium Space CUBEs,CUBE,@SomniumSpace
-AgentLISA,LISA,@AgentLISA_ai
-Rich Kids of TAO,SN110,N/A
-RNA,SN117,N/A
-SolMev,SN116,N/A
-717ai by Virtuals,WIRE,@717CapitalAI
-Synapse Power,XNAP,@synapsepw
-nuit,NUIT,@nottecore
-FXN,FXN,@mirra
-TrenchBuddy,TRENCH,@TrenchBuddy
-Infraxa,INFRA,@infraxa
-Matrix AI Network,MAN,@MatrixAINetwork
-SelfKey,KEY,N/A
-PerkOS,PERKOS,@perk_os
-Maiga,MAIGA,@Maiga_AI
-Atlas Navi,NAVI,@AtlasNavi
-SANTA by Virtuals,SANTA,@santavirtuals
-VPay,VPAY,@VPAY_Global
-Mode,MODE,@modenetwork
-ASK SPLAT,SPLAT,@asksplat
-HODL ETF,SN118,N/A
-DeepBrain Chain,DBC,@DeepBrainChain
-ai16z,AI16Z,@pmairca
-Cat Call Agent,CAT,@CatOnInkChain
-GT Protocol,GTAI,@gt_protocol
-ROVR Network,ROVR,@ROVR_Network
-LinqAI,LNQ,@linq_ai
-Sensay,SNSY,@asksensay
-Architex,ARCX,@Architex_ai
-Staicy Sport,SPORT,@StaicySport
-Roko Network,ROKO,@RokoNetwork
-Altered State Machine,ASTO,@altstatemachine
-TPRO Network,TPRO,@tpro_network
-Sallar,ALL,@sallar_io
-Fireverse,FIR,@FireverseV
-ChAtoshI,CHATOSHI,@ChatoshiAi
-Dtravel,TRVL,@DtravelDAO
+GIZA,GIZA,@gizatechxyz
+minotaur,SN112,N/A
+Cognify,SN115,N/A
+OKZOO,AIOT,@okzoo_app
+Spectre AI,SPECTRE,@Spectre__AI
+REPPO,REPPO,@Reppo
+CLAWNCH,CLAWNCH,@ClawnchDev
+FROK,FROK,@frok_ai
+NATIX Network,NATIX,@NATIXNetwork
+Agent Hustle,HUSTLE,@AgentHustleAI
+CreatorBid,BID,@CreatorBid
+Coral Protocol,CORAL,@Coral_Protocol
+PublicAI,PUBLIC,@PublicAI_
+Avo,AVO,@avodotso
+Sogni AI,SOGNI,@Sogni_Protocol
+KellyClaude,KELLYCLAUDE,@KellyClaud90827
 Zypher Network,POP,@Zypher_Network
-Neutaro,NTMPI,@Timpi_TheNewWay
-Kizuna,KIZUNA,@kizunatoken
-ReplyCorp,REPLY,@ReplyCorp
-Homebrew Robotics Club,BREW,@homebrewrobots
-META FINANCIAL AI,MEFAI,@MetaFinancialAI
-Reploy,RAI,@reployai
-Crustafarianism,CRUST,@memeothy0101
-DexCheck AI,DCK,@dexcheck_io
-Fleek,FLK,@fleek
-IMGN Labs,IMGN,@imgn_ai
-EternalAI,EAI,@CryptoEternalAI
-Tatsu,TATSU,@TatsuEcosystem
-Axelrod by Virtuals,AXR,@AIxVC_Axelrod
-Zero1 Labs,DEAI,@zero1_labs
-MUTE SWAP by Virtuals,MUTE,@Mute_swap
-WhiteBridge Network,WBAI,@AiWhitebridge
-yesnoerror,YNE,@yesnoerror
-Ithaca Protocol,ITHACA,@IthacaProtocol
+AI Network,AIN,@ainetwork_ai
+Satori,SN119,N/A
+IceCream AI,ICECREAM,@kol4u_xyz
+Botto,BOTTO,@bottoproject
+Agent Zero Token,A0T,N/A
+Immunefi,IMU,@immunefi
+BetterTherapy,SN102,@BetterTherapyAI
+Sleepless AI,AI,@SleeplessAI_Lab
+SolMev,SN116,N/A
+Vertical AI,VERTAI,N/A
+Permission Coin,ASK,@permissionIO
+LushAI,LUSH,@LushAIAgency
+NodeAI,GPU,@NodeAIETH
+HUMAN Protocol,HMT,@human_protocol
+Imagen Network,IMAGE,N/A
+Dynex,DNX,@dynexcoin
+Moltbook,MOLT,@moltbook
+VAIOT,VAI,@vaiot_ltd
+DeepNode,DN,@DeepNodeAI
+Tensorplex Staked TAO,STTAO,@TensorplexLabs
+Opus Genesis,OPUS,@opus_universe
 PolarisCloud.ai,SN49,@polariscloudai
-Fuku,FUKU,@fukuonchain
-JojoWorld,JOJO,@JoJoWorld2022
-HAiO,HAIO,@HAiO_Official
-maicrotrader,MAICRO,@maicrotrader
-The SWARM,SWARM,@TheSWARM_ai
-x402guard,X40G,@x402guard
-Eden,EDN,@EdenApp_EDN
-Xeleb Protocol,XCX,@xelebofficial
-OSMI,OSMI,@osmi_ai
-Dither,DITH,@Dither_Solana
-Xrpturbo,XRT,@xrpturbocom
-Nuklai,NAI,@NuklaiData
-A0x,A0X,@A0xbot
-Neurobro,BRO,@0xNeurobro
-SingularityDAO,SDAO,@SingularityDao
-ParallelAI,PAI,@ParallelAIx
-Otto AI,OTTO,@useOttoAI
-ICPanda DAO,PANDA,@ICPandaDAO
-0xGasless,0XGAS,@0xGasless
-Ispolink,ISP,@ispolink
-Ani Grok Companion,ANI,N/A
-Play AI,PLAI,@playAInetwork
-Humanode,HMND,@humanode_io
-Orbofi AI,OBI,@Orbofi
-PRXVT by Virtuals,PRXVT,@PRXVTai
-Gata,GATA,@Gata_xyz
-4EVERLAND,4EVER,@4everland_org
-Kenshi,KNS,@KenshiTech
-Thirdfy,TFY,@Thirdfy_
-Brainedge,LEARN,@Learn_Brainedge
-ARC,ARC,@ARCreactorAI
-Talos,T,@talos_is
-Simmi Token,SIMMI,@Simmi_IO
-Almanak,ALMANAK,@Almanak
-Faircaster,FAIR,N/A
-Gloria AI,GLORIA,@itsgloria_ai
-openagentmarket,OPENAGENTMARKET,@openagentmarket
-Doppel,DOPPEL,@doppelfun
-CharacterX,CAI,@CAI_protocol
-Privasea AI,PRAI,@Privasea_ai
-Ratio1,R1,@ratio1ai
-Alpie,PIE,@169pi_ai
-Stability World AI,AIW,@StabilityW_AI
-LYRA,LYRA,@lyra_virtuals
-fomolt,FOMOLT,@fomoltapp
-StarkBot,STARKBOT,@starkbotai
-MIAO,SN86,N/A
-Brain,SN90,N/A
+Cod3x,CDX,@Cod3xOrg
+VIVI COIN,VIVI,@lh_vivi_
+AstraAI,ASTRA,N/A
+PaLM AI,PALM,@palmaierc
+MetYa,MY,@metyacom
+Gaia,GAIA,@Gaianet_AI
+GLADIUS,GLADIUS,@ArenaGladius
+SIRE,SIRE,@sire_agent
+Empyreal,EMP,@EmpyrealSDK
+Spectral,SPEC,@Spectral_Labs
+HODL ETF,SN118,N/A
+Xterio,XTER,@XterioGames
+Rich Kids of TAO,SN110,N/A
+Captain Kuma,KUMA,@BetakkumaAI
+Toriva,TORIVA,@Toriva_
+Strawberry AI,BERRY,@StrawberryAI_5
+METAVERSE,METAV,@aipool_tee
+RNA,SN117,N/A
+Caesar,CAESAR,@caesar_data
+Infraxa,INFRA,@infraxa
+Soul Graph,GRPH,@soulgra_ph
+Presearch,PRE,@presearchnews
+Neuron,NRN,@NRNAgents
+HyperGPT,HGPT,@hypergpt
+Arai,AA,@ARAI_Systems
+OPEN GPU,OGPU,@openGPUnetwork
+Distributed Training,SN38,N/A
+Codec Flow,CODEC,@Codecopenflow
+GraphLinq Chain,GLQ,@graphlinq_proto
+Wasabot,BOT,@wasadotbot
+Nookplot,NOOK,@nookplot
+Clore.ai,CLORE,@clore_ai
+Waveform by Virtuals,WAVE,@WaveformBackup
+NodeOps,NODE,@NodeOpsHQ
+FELIX,FELIX,@FelixCraftAI
+Cere Network,CERE,@cereofficial
+ArAIstotle,FACY,@ArAIstotle
 Print,PRINT,@printfun_
-Hive Intelligence,HINT,@Hive_Intel
-UOMI,UOMI,@UomiNetwork
-LibertAI,LTAI,@libertai_dai
-Sally A1C,A1C,@sally_a1c
-Ta-da,TADA,@Ta_da_io
-singularity-engine,SINGULARITY-ENGINE,@metatransformr
-NANI,⌘,@nani__ooo
-Frostic,FROST,@frosticxyz
-Big Tony,TONY,@BigTonyXBT
-Degenerate SQuiD,SQDGN,@helloSQDGN
-AgentLayer,AGENT,@Agent_Layer
-Sharpe AI,SAI,@SharpeLabs
-IoTAI,IOTAI,@IoTAI_network
-Loky by Virtuals,LOKY,@Loky_AI
-The Upsider AI,UP,@TheUpsiderAI
-Praxis,PRXS,@Praxis_Protocol
-Edge Matrix Computing,EMC,@EMCprotocol
-ORA Coin,ORA,@foundationora
-AITV,AITV,@aitvgg
-Grix,GRIX,@GrixFinance
-Chasm,CAI,@ChasmNetwork
+Panther AI,PAI,@pantherappai
+Vader,VADER,@Vader_AI_
+BitQuant,SN15,N/A
+1000x by Virtuals,1000X,@1000xAgent
+Level 114,SN114,@level_114
+Somnium Space CUBEs,CUBE,@SomniumSpace
+Cortensor,COR,@cortensor
+Silencio,SLC,@silencioNetwork
+MIAO,SN86,N/A
+Orgo,ORGO,@spncrk
+StrikeBit AI,STRIKE,@StrikeBitDeFI
+bitsCrunch Token,BCUT,@bitscrunch
+AI Factory,SN80,@ai_factory_bit
+Aubrai by Bio,AUBRAI,@Aubrai_
+Wazabi AI,ZAB,@WazabiAI
+Sallar,ALL,@sallar_io
 Bitsota,SN94,N/A
-ArchAI,ARCHAI,@TheARCHAI_
-AGENT,AGENT,@TalosAgent
-OpenxAI,OPENX,@openxainetwork
-DecideAI,DCD,N/A
-Lumerin,LMR,@hellolumerin
+Warden,WARD,@wardenprotocol
+Synapse Power,XNAP,@synapsepw
+Ethy AI,ETHY,@ethy_agent
+DeepBrain Chain,DBC,@DeepBrainChain
 taonado,SN113,N/A
-SuiAI,SUAI,@SuiAIFun
-Ace Data Cloud,ACE,@acedatacloud
-AION 5100,AION,@aion5100
-DessalinesAI by Virtuals,DESSAI,@DessalinesAI
-Gigabrain by virtuals,BRAIN,@GigabrainGG
-ARGUE.FUN,$ARGUE,@arguedotfun
+Tiger Alpha,SN107,@tigerinvests
+717ai by Virtuals,WIRE,@717CapitalAI
+AgentLISA,LISA,@AgentLISA_ai
+VPay,VPAY,@VPAY_Global
+Alphakek,AIKEK,@alphakek
+TrenchBuddy,TRENCH,@TrenchBuddy
+Cat Call Agent,CAT,@CatOnInkChain
 ReinforcedAI,SN92,N/A
 Internet of Intelligence,SN108,N/A
-GameGPT,DUEL,@Gamegptofficial
-Bio Unit 000,BIO,N/A
-Dasha,VVAIFU,@vvaifudotfun
-Anita AI,ANITA,@itsanita_ai
-Rabbi Schlomo by Virtuals,SHEKEL,@RabbiSchlomo_Ai
-Messy Virgo,MESSY,@MessyVirgoCoin
-REVOX,REX,@revoxdotai
-Big Data Protocol,BDP,@bigdataprotocol
-TypeAI,TYPE,@Typeai2
-AI Factory,SN80,@ai_factory_bit
-WachAI,WACH,@WachXBT
-Neurahub,NEURA,@theneurahub
-IDRISS,IDRISS,@idriss_xyz
-Masa,MASA,@getmasafi
-MORSE,MORSE,@morseaiagent
-Aura,AURA,@auraonchain
-Nyla AI,NYLA,@AgentNyla
+Effect AI,EFFECT,@effectaix
+Cudos,CUDOS,@CUDOS_
+Juno Agent,JUNO,@JunoAgent
+Roko Network,ROKO,@RokoNetwork
+Sensay,SNSY,@asksensay
+Matrix AI Network,MAN,@MatrixAINetwork
+Heurist,HEU,@heurist_ai
+Atlas Navi,NAVI,@AtlasNavi
+Inspect,INSP,@inspectxyz
+Dexter AI,DEXTER,@dexteraisol
+Tatsu,TATSU,@TatsuEcosystem
+GT Protocol,GTAI,@gt_protocol
+SANTA by Virtuals,SANTA,@santavirtuals
+BasedAI,BASEDAI,@getbasedai
+LibertAI,LTAI,@libertai_dai
+KLEVA,KLEVA,@Kleva_AI
+Mode,MODE,@modenetwork
+Brain,SN90,N/A
+Zero1 Labs,DEAI,@zero1_labs
+Orbofi AI,OBI,@Orbofi
+META FINANCIAL AI,MEFAI,@MetaFinancialAI
+Staicy Sport,SPORT,@StaicySport
+TPRO Network,TPRO,@tpro_network
+Rivalz Network,RIZ,@Rivalz_AI
+aiPump,AIPUMP,@aiPump__
+Architex,ARCX,@Architex_ai
+nuit,NUIT,@nottecore
+LinqAI,LNQ,@linq_ai
+Jackal Protocol,JKL,@Jackal_Protocol
+SelfKey,KEY,N/A
+BOTCOIN,BOTCOIN,@MineBotcoin
+SAIRI,SAIRI,@santisairi
+Candles,SN31,N/A
+Altered State Machine,ASTO,@altstatemachine
+IoTAI,IOTAI,@IoTAI_network
+FXN,FXN,@mirra
+ChAtoshI,CHATOSHI,@ChatoshiAi
+CheckerChain,SN87,@checkerchain
+Neutaro,NTMPI,@Timpi_TheNewWay
+FlameWire,SN97,@FlameWire_SN
+Taoillium,SN109,@Taoillium
+ASK SPLAT,SPLAT,@asksplat
+Dtravel,TRVL,@DtravelDAO
+EternalAI,EAI,@CryptoEternalAI
+Fleek,FLK,@fleek
+Axelrod by Virtuals,AXR,@AIxVC_Axelrod
+KONDUX,KNDX,@Kondux_KNDX
+Faircaster,FAIR,N/A
+Fireverse,FIR,@FireverseV
+ai16z,AI16Z,@pmairca
+ParallelAI,PAI,@ParallelAIx
+Kizuna,KIZUNA,@kizunatoken
+yesnoerror,YNE,@yesnoerror
+Neza,SN99,@neza_video
+Ithaca Protocol,ITHACA,@IthacaProtocol
+Nuklai,NAI,@NuklaiData
+WhiteBridge Network,WBAI,@AiWhitebridge
+Molten,MOLTEN,@moltenagentic
+Maiga,MAIGA,@Maiga_AI
+Talos,T,@talos_is
+Purch,PURCH,@trypurch
+Life Changing Pill (PillNet AI),PILL,@pillievers
+IMGN Labs,IMGN,@imgn_ai
+ROVR Network,ROVR,@ROVR_Network
+MangaNow,MGN,@manganow_jp
+Otto AI,OTTO,@useOttoAI
+Karma,KARMA/SOL,@karmawallet
+Homebrew Robotics Club,BREW,@homebrewrobots
+ReplyCorp,REPLY,@ReplyCorp
+Ace Data Cloud,ACE,@acedatacloud
+Humanode,HMND,@humanode_io
+NANI,⌘,@nani__ooo
+Eden,EDN,@EdenApp_EDN
+Almanak,ALMANAK,@Almanak
+"Michael Taolor ⚡️ (τ , τ)",TAOLOR,@michaeltaolor
+Instaclaw,INSTACLAW,@instaclaws
+Dither,DITH,@Dither_Solana
+Ani Grok Companion,ANI,N/A
+CharacterX,CAI,@CAI_protocol
+Simmi Token,SIMMI,@Simmi_IO
+For Sale,SN47,N/A
+Play AI,PLAI,@playAInetwork
+0xGasless,0XGAS,@0xGasless
+ICPanda DAO,PANDA,@ICPandaDAO
+MUTE SWAP by Virtuals,MUTE,@Mute_swap
+MoltID,MOLTID,@moltdotid
+Ispolink,ISP,@ispolink
+Ratio1,R1,@ratio1ai
 OOBE Protocol,OOBE,@OOBEonSol
-XCAD Network,XCAD,@XcademyOfficial
-Fyni AI by Virtuals,FYNI,@FyniAI
-KAMIYO,KAMIYO,@kamiyoai
-dotmoovs,MOOV,@dotmoovs
+OSMI,OSMI,@osmi_ai
+Thirdfy,TFY,@Thirdfy_
+The SWARM,SWARM,@TheSWARM_ai
+Reploy,RAI,@reployai
+LYRA,LYRA,@lyra_virtuals
+Brainedge,LEARN,@Learn_Brainedge
+BORT,BORT,@BortOnBsc
+Sally A1C,A1C,@sally_a1c
+maicrotrader,MAICRO,@maicrotrader
 Bitrecs,SN122,@Bitrecs
+PRXVT by Virtuals,PRXVT,@PRXVTai
+Safe Scan,SN76,@SAFESCAN_AI
+Chasm,CAI,@ChasmNetwork
+4EVERLAND,4EVER,@4everland_org
+ARC,ARC,@ARCreactorAI
+Gloria AI,GLORIA,@itsgloria_ai
+Doppel,DOPPEL,@doppelfun
+Kenshi,KNS,@KenshiTech
+Neurobro,BRO,@0xNeurobro
+Grix,GRIX,@GrixFinance
+Frostic,FROST,@frosticxyz
+AION 5100,AION,@aion5100
+DessalinesAI by Virtuals,DESSAI,@DessalinesAI
+Big Data Protocol,BDP,@bigdataprotocol
+JojoWorld,JOJO,@JoJoWorld2022
+DecideAI,DCD,N/A
+Fuku,FUKU,@fukuonchain
+Dino Tycoon,TYCOON,@DinoTycoon_Web3
+Opulous,OPUL,@opulousapp
+clawpump.tech,CLAW,@clawpumptech
+LayerX,LX,@LayerXlab
+A0x,A0X,@A0xbot
+AgentLayer,AGENT,@Agent_Layer
+Stability World AI,AIW,@StabilityW_AI
+Big Tony,TONY,@BigTonyXBT
+ARGUE.FUN,$ARGUE,@arguedotfun
+Hive Intelligence,HINT,@Hive_Intel
+OpenxAI,OPENX,@openxainetwork
+VentureMind AI,VNTR,@VentureMindAI
+TypeAI,TYPE,@Typeai2
+ArchAI,ARCHAI,@TheARCHAI_
+AGENT,AGENT,@TalosAgent
 THINK Protocol,THINK,@thinkagents
-Hana by Virtuals,HANA,@HanaPersona_
-GNY,GNY,@gny_io
-DeepFakeAI,FAKEAI,@DeepFakeAI_
+Morphware,XMW,@MorphwareAI
+ORA Coin,ORA,@foundationora
 Capminal,CAP,@capminal
+Messy Virgo,MESSY,@MessyVirgoCoin
+Primis Protocol,PRIMIS,@primisprotocol
+Cortex,CTXC,@CTXCBlockchain
+Ta-da,TADA,@Ta_da_io
+Trackgood AI,TRAI,@trackgoodai
+Alpie,PIE,@169pi_ai
+TurboUSD Unstablecoin,₸USD,@turbousd
+Lumerin,LMR,@hellolumerin
+Praxis,PRXS,@Praxis_Protocol
+WachAI,WACH,@WachXBT
+Privasea AI,PRAI,@Privasea_ai
+Sharpe AI,SAI,@SharpeLabs
+GameGPT,DUEL,@Gamegptofficial
+IDRISS,IDRISS,@idriss_xyz
+Litcoin,LITCOIN,@litcoin_AI
+The Upsider AI,UP,@TheUpsiderAI
+AntiHunter,ANTIHUNTER,@AntiHunterAI
+Fyni AI by Virtuals,FYNI,@FyniAI
+SuiAI,SUAI,@SuiAIFun
+Gata,GATA,@Gata_xyz
+Neurahub,NEURA,@theneurahub
+Rabbi Schlomo by Virtuals,SHEKEL,@RabbiSchlomo_Ai
+tensorprox,SN91,@shugoio
+Degenerate SQuiD,SQDGN,@helloSQDGN
 Distribute.ai,DIS,@distributeai
 Acolyt,ACOLYT,@AcolytAI
-Reflect,RFL,@RFLnow
-Cortex,CTXC,@CTXCBlockchain
-cliza,CLIZA,@ClizaSystems
-LEEK,LEEK,@LeekSol
-MOLT BUNKER,BUNKER,@moltbunker
-Maya World,MAYA,@Mayaworldai
-ZARA AI,ZARA,@zaara_ai
-Aurra by Virtuals,AURA,@AurraCloud
-Rivalz Network,RIZ,@Rivalz_AI
-BitVault Signal,$BV7X,@BV7X_
-Token Metrics AI,TMAI,@tokenmetricsinc
-ANGL TOKEN,ANGL,@ANGL_Token
-Oracle of Preferences ZK by Virtuals,OOPZ,@oracle_opz
-Candles,SN31,N/A
+Anita AI,ANITA,@itsanita_ai
+Gigabrain by virtuals,BRAIN,@GigabrainGG
+REVOX,REX,@revoxdotai
+Edge Matrix Computing,EMC,@EMCprotocol
+dotmoovs,MOOV,@dotmoovs
+DeepFakeAI,FAKEAI,@DeepFakeAI_
+GNY,GNY,@gny_io
 Olyn by Virtuals,OLYN,N/A
-Emerge,EMERGE,@tryEmerge
-LIMBO,LIMBO,@Limbo_ai
-Satori Network,SATORI,@SatoriAssoc
-Replicat-One by Virtuals,RCAT,@ReplicatsAI
-Janitor,JANITOR,@JanitorBNB
-I.R.I.S,IRIS,@NethermindEth
-POLAR AI,POLAR,@PolarBerAI
-Eli5a,ELI5A,@eli5xt
-Gemach,GMAC,@gemach_io
-Expand,XZK,@Expandzk
-Commune AI,COMAI,@communeaidotorg
-oracle,ORACLE,@noiceagent
 TokenOS AI,TOS,@TokenOS_AI
-GAM3S.GG,G3,@GAM3Sgg_
-Eliza,ELIZA,@elizawakesup
-Bostrom,BOOT,@cyber_devs
-BitQuant,SN15,N/A
-Laika AI,LKI,@Laika_ai
-0xMonk by Virtuals,MONK,@monk_agent
-Uniclaw,UNICLAW,@UniClawBot
-Degen AI by Virtuals,DGENAI,@DegenAI_0x
-Syrax AI,SYRAX,@SyraxAI
-CheckerChain,SN87,@checkerchain
-WAYE.ai,WAYE,@WAYE_ai
-Mia Ko,MIA,N/A
-Robora,RBR,@UseRobora
-Flyte AI,FLYTE,@Flyte__AI
-FOMO,FOMO,N/A
-Level 114,SN114,@level_114
-Beeper Coin,BEEPER,@beeper_fun
-AIT Protocol,AIT,@AITProtocol
-Chirper AI,CHIRP,@chirperai
-Gradient Protocol,GDT,@Gradient_GDT
-Miss AI,MSAI,@missai_tech
-Boom,BOOM,@BOOM_FND
-Whale Intel,WINT,@WhaleintelAI
-Cypher Tempre,CPHY,@cyberphysicsai
-APIX,APIX,@avaxpixel
-Edwin,EDWIN,@buildwithedwin
-Helixa Cred,CRED,@helixaxyz
-Agent Ted,TED,@TheAgentTed
-ORBIT,GRIFT,@orbitcryptoai
-Wisdomise AI,WSDM,@wisdomise
-BEATS on BASE,BEATS,@BeatsOnBase
-PYSOPS,PSYOPS,@AgentArc_
-aiPump,AIPUMP,@aiPump__
-Taoillium,SN109,@Taoillium
-Rhetor,RT,@rhetor_ai
-ApeScreener,APES,@apescreener
-Assisterr AI,ASRR,@assisterr
-Jim,JIM,@JimAIstudios
-InsightX,INX,@InsightXnetwork
-Sturdy,STRDY,@SturdyFinance
-CeluvPlay,CELB,@CeluvPlay
-Arbus,ARBUS,@arbusai
-Ÿ,YAI,@yai_erc
-Kudai,KUDAI,@Kudai_IO
-KIP,KIP,@KIPprotocol
-VectorChat.ai,CHAT,@vectorchatai
-enqAI,ENQAI,@enq_AI
-Zaia by Virtuals,ZAIA,@zaiaapp
-Nodepay,NC,@nodepay
-Dolos The Bully,BULLY,@dolos_diary
-Gluteus Maximus by Virtuals,GLUTEU,@gluteu_virtuals
-OctonetAI,OCTO,@octonetai
-RoboStack,ROBOT,@RoboStack_io
-Cindicator,CND,@Cindicator
-Y8U,Y8U,@y8udotai
-Social Trade,ST,@socialtradeai
-Gekko AI by Virtuals,GEKKO,@Gekko_Agent
-ConLaunch,CLAUNCH,@Conlaunch_Bot
-PureFi,UFI,@Purefi_Protocol
-ClawCloudX,CLOUDX,@clawcloudx
-Athena by Virtuals,ATHENA,@0xAthenaAI
-LEA AI,LEA,@lea_gpt
-aixCB by Virtuals,AIXCB,@aixCB_Vc
-AthenaX9,AIX9,@Aiathenax9
-Nexgent AI,NEXGENT,@NexgentAI
-ClawdOS,COS,@ClawdOS
-Infinaeon,INF,@Infinaeon
-Distributed Training,SN38,N/A
-Provenance Fact-check,PROV,@0xProvenance
-Openfabric AI,OFN,@openfabricai
-ConsumerFi Protocol,CFI,@consumerfi
-Polymtrade,PM,@polymtrade
-Volaris Games,VOLS,@VolarisGames
-Mantis,M,@mantis
-CADAI,CADAI,@Cadaico
-THREE,$THREE,@ThreeProtocol
-Precipitate.ai,RAIN,@PrecipitateAI
-VentureMind AI,VNTR,@VentureMindAI
-Starly the $STAR™ Guide,$STAR,@Starlythestar
-Pippin's Friend,DOT,@pippinlovesdot
-nomAI,NOMAI,@0x_nomAI
-Artificial CZ,AICZ,@ArtificialCZ
-LayerX,LX,@LayerXlab
-Solace,$SOLACE,@solacelaunch
-DORA AI by Virtuals,DORA,@xDora_ai
-Synesis One,SNS,@synesis_one
+Reflect,RFL,@RFLnow
+Aura,AURA,@auraonchain
+ANGL TOKEN,ANGL,@ANGL_Token
+Loky by Virtuals,LOKY,@Loky_AI
+UOMI,UOMI,@UomiNetwork
+Aurra by Virtuals,AURA,@AurraCloud
+Gemach,GMAC,@gemach_io
 AmberVibe,AMBERVIBE,@ThatAmberVibe
-Nuwa World by Virtuals,NUWA,@nuwa_world
-0xDirectPing,0XDP,@0xdirectping_
-LilAI,LILAI,@lilTheAI
-AGiXT,AGIXT,@AGi_XT
-CLAWBERRY,CLAWBERRY,@clawberrypi
-AuditAI,AUDAI,@Audit_Ai_
-Crypticorn,AIC,@CrypticornAI
-AIR3 AIRewardrop,AIR3,@AIRewardrop
-Arbius,AIUS,@arbius_ai
-EXODAS,EXO,@exodas_ai
+PureFi,UFI,@Purefi_Protocol
+Satori Network,SATORI,@SatoriAssoc
+LIMBO,LIMBO,@Limbo_ai
+AITV,AITV,@aitvgg
+Solaris AI,SOLARIS,N/A
+LEEK,LEEK,@LeekSol
+XCAD Network,XCAD,@XcademyOfficial
+Eliza,ELIZA,@elizawakesup
+Hana by Virtuals,HANA,@HanaPersona_
+0xMonk by Virtuals,MONK,@monk_agent
+Xeleb Protocol,XCX,@xelebofficial
+Dasha,VVAIFU,@vvaifudotfun
+ORBIT,GRIFT,@orbitcryptoai
+cliza,CLIZA,@ClizaSystems
+ZARA AI,ZARA,@zaara_ai
+x402guard,X40G,@x402guard
+PerkOS,PERKOS,@perk_os
+I.R.I.S,IRIS,@NethermindEth
+Edwin,EDWIN,@buildwithedwin
+Infinaeon,INF,@Infinaeon
+Replicat-One by Virtuals,RCAT,@ReplicatsAI
+Commune AI,COMAI,@communeaidotorg
+Chirper AI,CHIRP,@chirperai
+APIX,APIX,@avaxpixel
+fomolt,FOMOLT,@fomoltapp
+Jim,JIM,@JimAIstudios
+ApeScreener,APES,@apescreener
+Oracle of Preferences ZK by Virtuals,OOPZ,@oracle_opz
+Polymtrade,PM,@polymtrade
+Sturdy,STRDY,@SturdyFinance
+AGENT Keef,KEEF,@keef_ai
+StarkBot,STARKBOT,@starkbotai
+Ÿ,YAI,@yai_erc
+BEATS on BASE,BEATS,@BeatsOnBase
+Dolos The Bully,BULLY,@dolos_diary
+Janitor,JANITOR,@JanitorBNB
+Bostrom,BOOT,@cyber_devs
+Eli5a,ELI5A,@eli5xt
+Emerge,EMERGE,@tryEmerge
 Octavia,VIA,@octaviatoken
-MoonPrime Games,LUNAR,@moonprimegames
-Kolwaii by Virtuals,VIBES,@kolwaii
-Tiger Alpha,SN107,@tigerinvests
-BOTIFY,BOTIFY,@botifydotcloud
-For Sale,SN47,N/A
-Comput3,COM,@comput3ai
-AgentiPy,APY,@AgentiPy
-Agent YP by Virtuals,AIYP,N/A
-Spore,SPORE,@sporedotfun
-HotKeySwap,HOTKEY,@HotKeySwap
-Maneki AI by Virtuals,MANEKI,@Maneki_DeFi
-Claude Memory,CMEM,@Claude_Memory
-STYLE Token,STYLE,@STYLEProtocol
-B-cube.ai,BCUBE,@Bcubeai
-Node Sphere AI,NSAI,@NodeSphereAI
-MOSS AI,MOSS,@0xMOSSAI
-Sui DePIN,SUIDEPIN,@suidepinai
-Javlis,JAVLIS,@javliscom
-Ember,EMBER,@embeclawd
-TTAI,TTAI,@TagAIDAO
-Director Lucien,LUCIEN,@Director_Lucien
-Chirpley,CHRP,@chirpley
-ai16zeliza,ELIZA,@ai16zeliza
-blai,BLAI,@blaiapp
-MoltBrain,BRAIN,@noahevers_
-TradeTide,TTD,@tradetideAI_
-Deep Agents,DEEP,@deep_agents
-Custos,CUSTOS,@clawcustos
-HDOKI,OKI,@HDOKI3
-MBP Coin,MBP,@mbpcoin
-opTrade AI,OPTR,@optrade_ai
-Omnia Protocol,OMNIA,@omnia_protocol
-Ring AI,RING,@TryRingAI
-cigoL,CIGOL,@cigol_lab
-LayerAI,LAI,@LayerAIorg
-Cucumber Trade,CUC,@TradeOnCucumber
-Polytrader by Virtuals,POLY,@Polytraderagent
-VIBE AI,VIBE,@VIBEaiRforce
+Gradient Protocol,GDT,@Gradient_GDT
+Bio Unit 000,BIO,N/A
+Charles AI by Virtuals,CHARLES,@charles__AI
+Gluteus Maximus by Virtuals,GLUTEU,@gluteu_virtuals
+PYSOPS,PSYOPS,@AgentArc_
+Precipitate.ai,RAIN,@PrecipitateAI
+InsightX,INX,@InsightXnetwork
+Otonix,OTX,@otonix_tech
+Beeper Coin,BEEPER,@beeper_fun
+Athena by Virtuals,ATHENA,@0xAthenaAI
+VectorChat.ai,CHAT,@vectorchatai
+handle.fi,FOREX,@handle_fi
+WAYE.ai,WAYE,@WAYE_ai
+Rhetor,RT,@rhetor_ai
+Starly the $STAR™ Guide,$STAR,@Starlythestar
+openagentmarket,OPENAGENTMARKET,@openagentmarket
+AIT Protocol,AIT,@AITProtocol
+LEA AI,LEA,@lea_gpt
+ClawVault,VAULT,@clawvaults
+Assisterr AI,ASRR,@assisterr
+Kudai,KUDAI,@Kudai_IO
+GAM3S.GG,G3,@GAM3Sgg_
+Agent Ted,TED,@TheAgentTed
+RoboStack,ROBOT,@RoboStack_io
+Artificial CZ,AICZ,@ArtificialCZ
+Whale Intel,WINT,@WhaleintelAI
 AI Power Grid,AIPG,@AIPowerGrid
-Sora Oracle,SORA,@SoraOracle
-ChadFi,CHADFI,@ChadFiAI
-H1DR4 by Virtuals,H1DR4,@h1dr4_agent
-AgentHub,DIRA,@dira_network
-AInalyst,AIN,@AInalyst_
-ASYNCHRONUS by Virtuals,ASYNC,@asynchronus_ai
-Neza,SN99,@neza_video
-CertaiK by Virtuals,CERTAI,@CertaiK_Agent
-SuperDapp,SUPR,@SuperDappAI
-Shieldeum,SDM,@Shieldeum
-AGIX,AGX,@0xAigentx
-SocialGrowAI,GROWAI,@SocialGrowAI
-Yuku AI,YUKU,@yukuapp
-Quad Terminal,QUAD,@quadency
-Flagship by Virtuals,FYI,@FlagshipFYI
-Terminal,TERMINAL,@terminal__co
-MOE,MOE,@nebula_moemate
-Twin Protocol,TWIN,@twinprotocolAI
-ASYM,ASYM,@ASYMaligned
-AIOS Foundation,AIOS,@aios_foundation
-Axiom,AXIOM,@AxiomBot
-ButlerLiquid,BL,@ButlerLiquid
-Top Hat,HAT,@TopHat_One
-CV3,CV3AI,@CV3Base
-AI PIN,AI,@aipin_io
+Expand,XZK,@Expandzk
+Quantu Execution Token,QX,@Quantu_AI
+Degen AI by Virtuals,DGENAI,@DegenAI_0x
+I Emmet,EMMET,@emmet_ai_
+enqAI,ENQAI,@enq_AI
+OctonetAI,OCTO,@octonetai
+Flyte AI,FLYTE,@Flyte__AI
+Cypher Tempre,CPHY,@cyberphysicsai
+nomAI,NOMAI,@0x_nomAI
+ClawdOS,COS,@ClawdOS
+Crustafarianism,CRUST,@memeothy0101
+Syrax AI,SYRAX,@SyraxAI
+Laika AI,LKI,@Laika_ai
+Helixa Cred,CRED,@helixaxyz
+MORSE,MORSE,@morseaiagent
+Nodepay,NC,@nodepay
+Arbus,ARBUS,@arbusai
+Spore,SPORE,@sporedotfun
+aixCB by Virtuals,AIXCB,@aixCB_Vc
+LUKSOAgent,LUKSO,@LUKSOAgent
+Solace,$SOLACE,@solacelaunch
+Provenance Fact-check,PROV,@0xProvenance
+Gekko AI by Virtuals,GEKKO,@Gekko_Agent
+Token Metrics AI,TMAI,@tokenmetricsinc
+Cindicator,CND,@Cindicator
+Mantis,M,@mantis
+DORA AI by Virtuals,DORA,@xDora_ai
+BitVault Signal,$BV7X,@BV7X_
+KIP,KIP,@KIPprotocol
+THREE,$THREE,@ThreeProtocol
+Arbius,AIUS,@arbius_ai
+AIR3 AIRewardrop,AIR3,@AIRewardrop
+Boom,BOOM,@BOOM_FND
+KAMIYO,KAMIYO,@kamiyoai
+Nyla AI,NYLA,@AgentNyla
+Ethresearchbot,ETHR,@ethresearchbot
 AROK.VC,AROK,@AROK_VC
-"Michael Taolor ⚡️ (τ , τ)",TAOLOR,@michaeltaolor
-Sentio AI,SEN,@sentio_ai
-Instaclaw,INSTACLAW,@instaclaws
+blai,BLAI,@blaiapp
+CADAI,CADAI,@Cadaico
+DeepLink Protocol,DLC,@DeepLinkGlobal
+MoonPrime Games,LUNAR,@moonprimegames
+AthenaX9,AIX9,@Aiathenax9
+opTrade AI,OPTR,@optrade_ai
+AgentiPy,APY,@AgentiPy
+GoatIndex.ai,AIAI,@GoatIndexAI
+Zaia by Virtuals,ZAIA,@zaiaapp
+Aleister,ALEISTER,@aleisterai
+Node Sphere AI,NSAI,@NodeSphereAI
+Y8U,Y8U,@y8udotai
+Kolwaii by Virtuals,VIBES,@kolwaii
+Maya World,MAYA,@Mayaworldai
+ConsumerFi Protocol,CFI,@consumerfi
+PrompTale AI,TALE,@PrompTale
+Trava Finance,TRAVA,@trava_finance
+Agent YP by Virtuals,AIYP,N/A
+Cucumber Trade,CUC,@TradeOnCucumber
+EXODAS,EXO,@exodas_ai
+HotKeySwap,HOTKEY,@HotKeySwap
+HAiO,HAIO,@HAiO_Official
+RYFT,RYFT,@EntertheRYFT
+TradeTide,TTD,@tradetideAI_
+Nexgent AI,NEXGENT,@NexgentAI
+ai16zeliza,ELIZA,@ai16zeliza
+Crypticorn,AIC,@CrypticornAI
+Quad Terminal,QUAD,@quadency
+MOSS AI,MOSS,@0xMOSSAI
+Omnia Protocol,OMNIA,@omnia_protocol
+STYLE Token,STYLE,@STYLEProtocol
+AgentHub,DIRA,@dira_network
+CertaiK by Virtuals,CERTAI,@CertaiK_Agent
+MBP Coin,MBP,@mbpcoin
+LayerAI,LAI,@LayerAIorg
+iLuminary Token,ILMT,@iLuminaryAI
+Polytrader by Virtuals,POLY,@Polytraderagent
+Twin Protocol,TWIN,@twinprotocolAI
+AInalyst,AIN,@AInalyst_
+Zentience,ZENT,@ZentienceAgent
+SocialGrowAI,GROWAI,@SocialGrowAI
+LilAI,LILAI,@lilTheAI
+Ring AI,RING,@TryRingAI
+ASYM,ASYM,@ASYMaligned
+B-cube.ai,BCUBE,@Bcubeai
+ChadFi,CHADFI,@ChadFiAI
+Jatevo,JTVO,@JatevoId
+Comput3,COM,@comput3ai
+MUNTZE,MUNTZE,@muntze_ai
+AGIX,AGX,@0xAigentx
+AIOS Foundation,AIOS,@aios_foundation
 PLOI,PLOI,N/A
-Solvr,SOLVR,@solvrbot
-The Css God by Virtuals,WEBSIM,@JustInverseIt
-QUAIN,QUAIN,@quaindotcom
-Bink AI,BINK,@bink_ai
+Maneki AI by Virtuals,MANEKI,@Maneki_DeFi
+ASYNCHRONUS by Virtuals,ASYNC,@asynchronus_ai
+FOMO,FOMO,N/A
+Tycoon by Shareland,TYCOON,@sharedotland
 The Audit Oracle,AUDIT,@auditoneagent
+Wisdomise AI,WSDM,@wisdomise
+VolatilityX,VOLTX,@Xvolatility
+Bink AI,BINK,@bink_ai
+MOLT BUNKER,BUNKER,@moltbunker
+VIBE AI,VIBE,@VIBEaiRforce
+Director Lucien,LUCIEN,@Director_Lucien
+Claude Memory,CMEM,@Claude_Memory
+Volaris Games,VOLS,@VolarisGames
+Robora,RBR,@UseRobora
+AI PIN,AI,@aipin_io
 ProtoKOLs,KOL,@Protokols_io
+HDOKI,OKI,@HDOKI3
 SAA-AI,DRPAL,@drpal_ai
 Lumo-8B-Instruct,LUMO,@lumolabsdotai
-MUNTZE,MUNTZE,@muntze_ai
+AGiXT,AGIXT,@AGi_XT
+BOTIFY,BOTIFY,@botifydotcloud
+Nuwa World by Virtuals,NUWA,@nuwa_world
 HEXAR AI,HEXAR,N/A
-Jatevo,JTVO,@JatevoId
-AI ROCKET by Virtuals,ROCKET,@airocket_agent
-XO Protocol,XOXO,@XO_app
-Moontax,CPAI,@OfficialCPAI
-Blendr Network,BLENDR,@BlendrNetwork
-VolatilityX,VOLTX,@Xvolatility
-JuliaOS,JOS,@BuildOnJulia
+TTAI,TTAI,@TagAIDAO
 neur.sh,NEUR,@neur_sh
+DexCheck AI,DCK,@dexcheck_io
+BeaconOnBase,BEACON,@BeaconOnBase
+Terminal,TERMINAL,@terminal__co
+Mia Ko,MIA,N/A
+Shieldeum,SDM,@Shieldeum
+ButlerLiquid,BL,@ButlerLiquid
 AI⁴,AI4,@SingulantChain
-WELL3,$WELL,N/A
-Tao Ceτi,CETI,N/A
-Dobi,DOBI,@dobi_terminal
-J3FF by Virtuals,J3FF,@RIFTAI_
-SUI Agents,SUIAI,@SUI_agents
-Flourishing AI,AI,@flourishingai
-Universal Operating System,$UOS,@Universal_O_S
-Generaitiv,GAI,@generaitiv
-Sparkle,SSS,@sparklefun2023
-Tycoon by Shareland,TYCOON,@sharedotland
-StarryNift,SNIFT,@StarryNift
-listen-rs,LISTEN,@piotreksol
-LESTER by Virtuals,LESTER,@LesterVirtuals
-Envision Labs,VIS,N/A
-PrompTale AI,TALE,@PrompTale
-handle.fi,FOREX,@handle_fi
-H4CK Terminal by Virtuals,H4CK,@h4ck_terminal
-LEON AI,LEON,@grenlouis
-AIMX,AIMX,@AimedisGlobal
-Trackgood AI,TRAI,@trackgoodai
-Clustr,CLUSTR,@clustr_labs
-SPIRA,SPIRA,@spiraagent
-NOD,NOD,@0xNodMe
-Loomlay,LAY,@loomlayai
-Simple AI,SMPL,@SimpleAI_
-Skynet,SKY,@theskynetxbt
-YoYo,YOYO,@YoYo_Agent
-Duck AI,DUCKAI,@askduckai
-_gai16zbrielShai16zpr0,GAIB,@flex__node
-Daimon,DAIMON,@agentdaimon
-ZAYA AI,ZAI,@ZayaAI_PathDx
-MAX,MAX,N/A
-XALPHA.AI,XALPHA,@XAlphaAI_Team
-Zero Connector,ZEROC,@ZeroConnector
-Defidash,DEFIDASH,@defidash_Agent
-Evolve Network,EVOLVE,@evolvenetworkai
-Gud Tech,GUD,@gudtech_ai
-aiws,AIWS,@aiwscloud
-AIMERICA,UAI,@aimericauai
-Sploots by Virtuals,SPLOOT,N/A
-Deployyyyer,DEPLOY,@Deployyyyer
-iLuminary Token,ILMT,@iLuminaryAI
-DeepLink Protocol,DLC,@DeepLinkGlobal
-Cloudland,CLO,@cloudlandai
-COQ AI,COQAI,@COQ_AI
-Golem,GOLEM,N/A
-Alliewai by Virtuals,AWAI,@allie2wai
-Databot,DATA,@databot_xyz
-Tradescoop by Virtuals,SCOOP,@tradescoopHQ
-Darwin,DARWIN,@darwinslab_ai
-Paca AI,PACA,@AlpacaNetworkAI
-Weird Medieval Memes,WMM,@MedievalMemesAI
-AskTianAI,TIAN,@AskTianAI
-PHASMA,PHASMA,@phasmafuture
-AgentTank,TANK,@AgentTankLive
-PettAI,AIP,@pett_ai
-VoluMint,VMINT,@Volumint
-MATES,MATES,@MoemateAI
-Liquid Agent,LIQUID,@LiquidAgentAI
-Skillful AI,SKAI,@SkillfulAI
-EchoLeaks by Virtuals,ECHO,@0xEchoLeaks
-Gas Town,GAS,N/A
-Homo Memetus,HOMO,@homo_memetus
-Legend,$LEGEND,@LegendAI_Agent
-MISATO,MISATO,@Misato_virtuals
-DilemmAI,DILEM,@DilemmAI_
-XPRTL,PRTL,@xportalai
-SOLA AI,SOLA,@TheSolaAI
+Synesis One,SNS,@synesis_one
+Owockibot,OWOCKIBOT,@owockibot
+Sora AI,SORA,@SoraAIToken
 Guru Network,GURU,@xgurunetwork
-LPC_Ai_Lumi by Virtuals,LUMI,@lumi_virtuals
-SENSUS,SENSUS,@0xSensus
-aiRight,AIRI,@aiRight_io
-AGIXBT by Virtuals,AGIXBT,@agixbt
-MAXX AI,MXM,@maxxmxmcoin
-Inbox,INBOX,@InboxApp_
-WAVE,WAV,@WaveOnSui
-Shield protocol,SHIELD,@ShieldProtocols
-Meme AI Coin,MEMEAI,@Memeaicoin
-Universal Basic Compute,UBC,@LesterPaints
-AI Shell NOVA,NOVA,@AiShellNova
-Agent Vilady TV,VILADY,N/A
-Social Lens Ai,LENS,@SocialLensAI
-Kitsune,$KIT,@agent_kitsune
-Neurvona,NEURVONA,N/A
-TAOlie Coin,TAOLIE,@TAOlie_SOl
-AI Agent Layer,AIFUN,@AIAgentLayer
-Sandy Codex,SANDY,@codexsandy
+Sui DePIN,SUIDEPIN,@suidepinai
+CV3,CV3AI,@CV3Base
+Moontax,CPAI,@OfficialCPAI
+J3FF by Virtuals,J3FF,@RIFTAI_
+The Css God by Virtuals,WEBSIM,@JustInverseIt
+H1DR4 by Virtuals,H1DR4,@h1dr4_agent
+Envision Labs,VIS,N/A
+Skynet,SKY,@theskynetxbt
+JuliaOS,JOS,@BuildOnJulia
+QUAIN,QUAIN,@quaindotcom
+Flagship by Virtuals,FYI,@FlagshipFYI
+Gas Town,GAS,N/A
+AIMX,AIMX,@AimedisGlobal
+WELL3,$WELL,N/A
+AXOBOTL,AXOBOTL,@Inner_Axiom
+Tao Ceτi,CETI,N/A
+H4CK Terminal by Virtuals,H4CK,@h4ck_terminal
+COQ AI,COQAI,@COQ_AI
+Blue Agent,BLUEAGENT,@blocky_agent
+Uniclaw,UNICLAW,@UniClawBot
+EVA,EVA,@EvaOnlineXyz
+listen-rs,LISTEN,@piotreksol
+Top Hat,HAT,@TopHat_One
+Ember,EMBER,@embeclawd
+LESTER by Virtuals,LESTER,@LesterVirtuals
+YoYo,YOYO,@YoYo_Agent
+Clustr,CLUSTR,@clustr_labs
+SUI Agents,SUIAI,@SUI_agents
+MAX,MAX,N/A
+Masa,MASA,@getmasafi
+STATE,STATE,@larueagent
+oracle,ORACLE,@noiceagent
+SPIRA,SPIRA,@spiraagent
+Sentio AI,SEN,@sentio_ai
+Flourishing AI,AI,@flourishingai
+Chirpley,CHRP,@chirpley
+Vericore,SN70,N/A
+Earendel,EARENDEL,@FromEarendel
+MOE,MOE,@nebula_moemate
+Simple AI,SMPL,@SimpleAI_
+XALPHA.AI,XALPHA,@XAlphaAI_Team
+NOD,NOD,@0xNodMe
+gemxbt,GEMXBT,@gemxbt_agent
+Deployyyyer,DEPLOY,@Deployyyyer
+LEON AI,LEON,@grenlouis
+TACHI,TACHI,@smolekoma
+TensorGate,TGATE,@tensorgate
+AIMERICA,UAI,@aimericauai
+cigoL,CIGOL,@cigol_lab
+Chappyz,CHAPZ,@Chappyzcom
+Sora Oracle,SORA,@SoraOracle
+Miss AI,MSAI,@missai_tech
+Cloudland,CLO,@cloudlandai
+Defidash,DEFIDASH,@defidash_Agent
+Legend,$LEGEND,@LegendAI_Agent
+Darwin,DARWIN,@darwinslab_ai
+Liquid Agent,LIQUID,@LiquidAgentAI
+Shopping.io,SPI,@shopping_io
+_gai16zbrielShai16zpr0,GAIB,@flex__node
+Weird Medieval Memes,WMM,@MedievalMemesAI
+Gud Tech,GUD,@gudtech_ai
+CRUDE,CRUDE,@DrillCrude
+Sploots by Virtuals,SPLOOT,N/A
 DEGA,DEGA,N/A
+EchoLeaks by Virtuals,ECHO,@0xEchoLeaks
+PettAI,AIP,@pett_ai
+AI ROCKET by Virtuals,ROCKET,@airocket_agent
+ZAYA AI,ZAI,@ZayaAI_PathDx
+POLAR AI,POLAR,@PolarBerAI
+LPC_Ai_Lumi by Virtuals,LUMI,@lumi_virtuals
+aiws,AIWS,@aiwscloud
+Databot,DATA,@databot_xyz
+Hashlink,HLINK,@hashlink_me
+Alliewai by Virtuals,AWAI,@allie2wai
+Agent Vilady TV,VILADY,N/A
+Axiom,AXIOM,@AxiomBot
+Daimon,DAIMON,@agentdaimon
+Tradescoop by Virtuals,SCOOP,@tradescoopHQ
 nftxbt,NFTXBT,@nft_xbt
-Navigate,NVG8,@navigate_ai
-Agentlauncher,CVAI,@CVAgentlauncher
-Scoutly AI,SCOUT,@scoutlygg
-eudaemon_0,EUDAEMON,@i_need_api_key
-Mansa AI,$MUSA,N/A
-aaigotchi,AAI,@aaigotchi
-CPA by Virtuals,CPA,@CPAxbt
-01111010011110000110001001110100,01111010011110000110001001110100,@zxbt_agent
-2DAI.io,2DAI,N/A
-Giants Protocol,G,@giantsprotocol
-RWAI by Virtuals,RWAI,@RWAIAgent
-PrimoAI,$PRIMO,@primoai_agent
-Arcturian AI by Virtuals,LIGHT,@ArcturianLabs
-Imprnt,PRNT,@imprnt_ai
-Generative Market eXplorer,AIGMX,@aigmx_agent
-Vainguard,VAIN,@vainguard_ai
-Xenopus laevis,XENO,@Xenopus_v1
 blormmy,BLORMMY,@blormmy
-Ali for fx protocol by Virtuals,FX,@protocol_fx_ali
-Naomi by BunnyOS,NAOMI,@officialbunnyos
-ChainAware.ai,AWARE,@ChainAware
-Reality Spiral,RSP,@reality_spiral
-Khorus,KHO,@khorusio
-Conbook,CONBOOK,@conbook_
-NOTAI,NOTAI,@thenotai
-AI Dev Agent,AIDEV,@AIDevAgent
-JailbreakMe,JAIL,@jailbreakme_xyz
-ReldoTheScribe,RELDO,@ReldoTheScribe
-Shogun,SHOGUN,@Shogun__base
-Gabriel,GABRIEL,@Foundational_AI
-Verida Token,VDA,@Verida_io
-Daige,DAIGE,@daigeagi
-JUST KIRA,KIRAI,@JustKiraTings
-BENJAMIN,BENJI,@UnleashBenjamin
-whim.bet by Virtuals,WHIM,@whimdotbet
-Vault AI,$VAULT,@VaultAIHub
-Silverback,BACK,@silverbackdefi
-Arvos AI,ARVOS,@arvos_ai
-Unmarshal,MARSH,@Unmarshalai
+XO Protocol,XOXO,@XO_app
+AgentAxion,AAXN,@AgentAxion
 Woonkly,WOOP,@woonkly
-WAGMI,WAGMI,@wagmiglobal_
-WHISP,WHISP,@whispersai
-Tri Sigma,TRISIG,@tri_sigma_
-Atua AI,TUA,@AtuaAI
-GeorgiaAI,GEAI,@Georgia_AI
-Seraph by Virtuals,SERAPH,@SeraphAgent
-QudeAI Framework,QUDE,@qude_framework
+Solvr,SOLVR,@solvrbot
+MISATO,MISATO,@Misato_virtuals
+AGIXBT by Virtuals,AGIXBT,@agixbt
+SOLA AI,SOLA,@TheSolaAI
+XPRTL,PRTL,@xportalai
+Loomlay,LAY,@loomlayai
+Universal Basic Compute,UBC,@LesterPaints
+AgentTank,TANK,@AgentTankLive
+MATES,MATES,@MoemateAI
+Meme AI Coin,MEMEAI,@Memeaicoin
+Inbox,INBOX,@InboxApp_
+Paca AI,PACA,@AlpacaNetworkAI
+Ali for fx protocol by Virtuals,FX,@protocol_fx_ali
+aixrp,AIXRP,@aixrp_agent
+TAOlie Coin,TAOLIE,@TAOlie_SOl
+CLERK,CLERK,@agent_clerk
+Kitsune,$KIT,@agent_kitsune
+WAVE,WAV,@WaveOnSui
+Dobi,DOBI,@dobi_terminal
+Universal Operating System,$UOS,@Universal_O_S
+SENSUS,SENSUS,@0xSensus
+Shield protocol,SHIELD,@ShieldProtocols
+Scoutly AI,SCOUT,@scoutlygg
+Navigate,NVG8,@navigate_ai
 Vapor,VAPOR,@vaporwarefun
+SONAR,SONAR,@SONAR_on_SONIC
+Blendr Network,BLENDR,@BlendrNetwork
+PHASMA,PHASMA,@phasmafuture
+Momo,MOMO,@Momo_Agent_
+Duck AI,DUCKAI,@askduckai
+01111010011110000110001001110100,01111010011110000110001001110100,@zxbt_agent
+Agentlauncher,CVAI,@CVAgentlauncher
+ClawCloudX,CLOUDX,@clawcloudx
+2DAI.io,2DAI,N/A
+Homo Memetus,HOMO,@homo_memetus
+Imprnt,PRNT,@imprnt_ai
+MAXX AI,MXM,@maxxmxmcoin
+eudaemon_0,EUDAEMON,@i_need_api_key
+AI Shell NOVA,NOVA,@AiShellNova
+Daige,DAIGE,@daigeagi
+MrCashClaw,CASHCLAW,@MrCashClaw
+Ethereum History,HISTORY,@EthereumHistory
+ChainAware.ai,AWARE,@ChainAware
+Tri Sigma,TRISIG,@tri_sigma_
+Vainguard,VAIN,@vainguard_ai
+Sandy Codex,SANDY,@codexsandy
+Xenopus laevis,XENO,@Xenopus_v1
+ConLaunch,CLAUNCH,@Conlaunch_Bot
+AI Agent Layer,AIFUN,@AIAgentLayer
+SUPAH,SUPH,@supah_based
+CPA by Virtuals,CPA,@CPAxbt
+aaigotchi,AAI,@aaigotchi
+Skillful AI,SKAI,@SkillfulAI
+PrimoAI,$PRIMO,@primoai_agent
+MoltBrain,BRAIN,@noahevers_
+AskTianAI,TIAN,@AskTianAI
+RWAI by Virtuals,RWAI,@RWAIAgent
+Reality Spiral,RSP,@reality_spiral
+Openfabric AI,OFN,@openfabricai
+whim.bet by Virtuals,WHIM,@whimdotbet
 Sendcoin,SEND,@thesendcoincom
-Tao Accounting System,TAS,@tas_financial
-ai9000,AI9000,@delaunch
-baibysitter,BAIBY,@baibysitter
-Builder Arena,BUILDERARENA,@shirollsasaki
-Raiinmaker,RAIIN,@raiinmakerapp
+GeorgiaAI,GEAI,@Georgia_AI
+Arvos AI,ARVOS,@arvos_ai
+Seraph by Virtuals,SERAPH,@SeraphAgent
+Naomi by BunnyOS,NAOMI,@officialbunnyos
+Custos,CUSTOS,@clawcustos
+Shogun,SHOGUN,@Shogun__base
+NOTAI,NOTAI,@thenotai
+Vault AI,$VAULT,@VaultAIHub
+Dr Emma Sage,EMMA,@DrEmmaSage
+CLAWBERRY,CLAWBERRY,@clawberrypi
+JailbreakMe,JAIL,@jailbreakme_xyz
+AI Dev Agent,AIDEV,@AIDevAgent
+ReldoTheScribe,RELDO,@ReldoTheScribe
+WHISP,WHISP,@whispersai
+0xDirectPing,0XDP,@0xdirectping_
+Khorus,KHO,@khorusio
+singularity-engine,SINGULARITY-ENGINE,@metatransformr
+Verox,VRX,@verox_aicrypto
+Atua AI,TUA,@AtuaAI
+Generative Market eXplorer,AIGMX,@aigmx_agent
+BENJAMIN,BENJI,@UnleashBenjamin
+QudeAI Framework,QUDE,@qude_framework
+WAGMI,WAGMI,@wagmiglobal_
 Hunter by Virtuals,DRPXBT,@drpxbt
 Agent Smith,SMITH,@0xSmithAI
-VIBECOIN,VIBECOIN,N/A
-iAgent Protocol,$AGNT,@iAgentProtocol
-BUILD,BUILD,@usebuildfun
-Saul GoodAI,SAUL,@saulgoodlives
-Safe Scan,SN76,@SAFESCAN_AI
-Spirit Town,SPIRIT,@spiritdottown
-PSEUDO REALITY,PSEUDO,@PseudoSolana
-Verox,VRX,@verox_aicrypto
-launchbot,ROCKETAI,@rocketdotfun
-gemxbt,GEMXBT,@gemxbt_agent
-REI AI by Virtuals,REI,@reiai_xyz
-Claw16z,CLAW16Z,@claw16z
-Holozone,HOLO,@HolozoneAI
-KarmaVerse by Virtuals,KARMA,@KarmaverseAI
-Ace Data Cloud,$ACE,@acedatacloud
-NIKITA by Virtuals,NIKITA,@VirtualsNikita
-Mello AI,MELLO,@MelloHealthAI
-Clawnet,CLAWNET,@claw_net
-SUI Desci Agents,DESCI,@DeSci_Agents
-AI-Powered CMP,AICMP,@BTCFSIC
-ShellTown,SHELL,@arnie
-DREAM by Virtuals,DREAM,@DR3AM_AI
 cr0w by Virtuals,CROW,@cr0w_agent
-SHAFT (Strategic Hub For AI-Focused Technology),SHAFT,@shaftfinance
-FAME AI,FMC,@GetFameAI
+baibysitter,BAIBY,@baibysitter
+launchbot,ROCKETAI,@rocketdotfun
 LIMITUS,LMT,@limitusintel
-ATA by Virtuals,ATA,@ata_virtuals
-Memeputer,MEMEPUTER,@memeputer
-Liminal Agent by Virtuals,LMNL,@LMNLAgent
-OmniMinds,OMNIS,@omnimindsai
-Virtuals Ventures by Virtuals,VVC,@virtuals_vc
+Pharmachain AI,PHAI,@pharmachainAI
+Giants Protocol,G,@giantsprotocol
+Zero Connector,ZEROC,@ZeroConnector
+CLAW BEACON,BEACON,@ClawBeacon
+KarmaVerse by Virtuals,KARMA,@KarmaverseAI
+ai9000,AI9000,@delaunch
+REI AI by Virtuals,REI,@reiai_xyz
+Pippin's Friend,DOT,@pippinlovesdot
+Tao Accounting System,TAS,@tas_financial
+NIKITA by Virtuals,NIKITA,@VirtualsNikita
+PSEUDO REALITY,PSEUDO,@PseudoSolana
+Holozone,HOLO,@HolozoneAI
+Silverback,BACK,@silverbackdefi
+Aicolabs,AICO,@aico_labs
+BUILD,BUILD,@usebuildfun
+Clawnet,CLAWNET,@claw_net
+Spirit Town,SPIRIT,@spiritdottown
+Builder Arena,BUILDERARENA,@shirollsasaki
+FAME AI,FMC,@GetFameAI
+Bird.Money,BIRD,@_birdmoney
+Otto,$OTTO,@OttoOnChain
+SHAFT (Strategic Hub For AI-Focused Technology),SHAFT,@shaftfinance
+DREAM by Virtuals,DREAM,@DR3AM_AI
+iAgent Protocol,$AGNT,@iAgentProtocol
+AI-Powered CMP,AICMP,@BTCFSIC
 Bark Ruffalo by Virtuals,PAWSY,@TrulyADog
-MAIAR,MAIAR,@maiar_ai
-EIGENCODE,CODE,@eigencode_dev
-Eve AI,EVEAI,@_EveAI
-Emilia,EMILIA,@EmiliaDeFAi
-All In,ALLIN,@allinerc20
-AgentPad,AGENT,@AgentPad_Solana
-Anti Rug Agent,ANTIRUG,@antirug_ai
-HYPE3.cool,COOL,@hype3dotcool
+ATA by Virtuals,ATA,@ata_virtuals
+Claw16z,CLAW16Z,@claw16z
+Virtuals Ventures by Virtuals,VVC,@virtuals_vc
+Liminal Agent by Virtuals,LMNL,@LMNLAgent
+Javlis,JAVLIS,@javliscom
+Verida Token,VDA,@Verida_io
 Kogin by Virtuals,KOGIN,@Kogin_ai
-GENZAI by Virtuals,GENZAI,@genzailabs
-Dr Emma Sage,EMMA,@DrEmmaSage
+MAIAR,MAIAR,@maiar_ai
 Assimilate,SIM,@assimilate_cc
-Ruri - Truth Terminal's Crush,RURI,@ruriaisol
-Hiero Terminal,HTERM,@HieroTerminal
-Matrix,MATRIX,@MatrixAiagent
-NeurochainAI,NCN,N/A
+Conbook,CONBOOK,@conbook_
 NodelyAI,$NODE,@OfficialNAIeth
-Omnis Genesis by Virtuals,OMNI,@mind_circuit
-Myobot,MOLT_MYOBOT,@molt_myobot
-SUISSMA AI by Virtuals,SUISS,@SuissmaAi
-aixrp,AIXRP,@aixrp_agent
-OpMentis,OPM,@opmentis_ai
-Lux Token,LUX,@lux_gg_official
-Tairon,TAIRO,@TaironAI
-FOMO RADIO AI,RADIO,@FomoRadioAi
-Agent Zeek by Virtuals,ZEEK,@agent_zeek
-ArcadiaOS,ARCOS,@ArcadiaOSAI
 Phi Protocol,PHI,@phiprotocolai
-AlphaArc,ALPHA,@AlphaArc4k
-SUPAH,SUPH,@supah_based
-DeFAI,DEFAI,@defai_dao
-Chappyz,CHAPZ,@Chappyzcom
+Eve AI,EVEAI,@_EveAI
+Hiero Terminal,HTERM,@HieroTerminal
+Ruri - Truth Terminal's Crush,RURI,@ruriaisol
 AI GOD,AIG,@aigodvirtual
-DONNIE$,DONNIE$,@DONNIES_AI
-DackieSwap,DACKIE,N/A
-Zen AI,ZENAI,@ZenAi_Solana
-StellaryAI,STELAI,@StellaryAI
-PULSR,$PULSR,@Pulsrcoin
-The Blinking AI Cat - Catfather,CATF,@theblinkingcat
-Shellraiser,SHELLRAISER,@shellraze
-ElizaBAO,ELIZABAO,@elizabaoxyz
-DND,DND,@dndNGMI
-YUUKI,YUUKI,@full_house_gg
+GENZAI by Virtuals,GENZAI,@genzailabs
+Golem,GOLEM,N/A
+Omnis Genesis by Virtuals,OMNI,@mind_circuit
+All In,ALLIN,@allinerc20
+Agent Zeek by Virtuals,ZEEK,@agent_zeek
+Myobot,MOLT_MYOBOT,@molt_myobot
+Raiinmaker,RAIIN,@raiinmakerapp
 Keira,KEIRA,@KeiraxAI
-XOE,XOE,@XoeXoeXoe
-Huggi,HUGGI,@huggiapp
-cjft,CJFT,@_cjft
-kwantxbt,KWANT,@kwantxbt
-Beat Matchmaker,BEAT,@BeatMatchmaker
-MindAI,MDAI,N/A
-NOTMEME Agent,NOTMEME,@notmeme_app
-Senti AI,SENTI,@SentiAI_BNB
-Sage Market,SAGE,@sagestudiosai
-ELYTRA,ELYTRA,@Elytra_Virtual
-AVATAR UI,AUI,@Sikino_Sito
-KOLZ,KOLZ,@ChatKolz
-BROT,BROT,@blockrotbot
-XAVI by Virtuals,XAVI,@AgentXAVI
-IF Science,IFSCI,@ifsci_ai
-Kryptonite,SEILOR,N/A
-aether collective,AETHER,@aetherdotfun
-iG3,TOPS,@iGAM3_ai
-AGENT DOGE by Virtuals,AIDOGE,@agentdoge007
-Isaac X,ISAACX,@IsaacXDiscovery
+Matrix,MATRIX,@MatrixAiagent
+Lux Token,LUX,@lux_gg_official
+Saul GoodAI,SAUL,@saulgoodlives
 Mind AI,MA,@MindAI_io
+Anti Rug Agent,ANTIRUG,@antirug_ai
+Ace Data Cloud,$ACE,@acedatacloud
+AlphaArc,ALPHA,@AlphaArc4k
+SUISSMA AI by Virtuals,SUISS,@SuissmaAi
+Mansa AI,$MUSA,N/A
+PULSR,$PULSR,@Pulsrcoin
+DackieSwap,DACKIE,N/A
+FOMO RADIO AI,RADIO,@FomoRadioAi
+Zen AI,ZENAI,@ZenAi_Solana
+XAVI by Virtuals,XAVI,@AgentXAVI
+kwantxbt,KWANT,@kwantxbt
+Bonsai Token,BONSAI,@onbonsai
+Shellraiser,SHELLRAISER,@shellraze
 IAMAI,IAMAI,@iamai_wtf
-ThreatSlayerAI by Virtuals,SLAYER,@threatslayerAI
-Oxai,OXAI,@OxaiNetwork
-BRAZA by Virtuals,BRAZA,@BrazaAI
-Pollo,POLLO,@pollodotlol
+StellaryAI,STELAI,@StellaryAI
+Arcturian AI by Virtuals,LIGHT,@ArcturianLabs
+Mello AI,MELLO,@MelloHealthAI
+DONNIE$,DONNIE$,@DONNIES_AI
+Neurvona,NEURVONA,N/A
+StarryNift,SNIFT,@StarryNift
+HYPE3.cool,COOL,@hype3dotcool
+DeFAI,DEFAI,@defai_dao
+XOE,XOE,@XoeXoeXoe
+ELYTRA,ELYTRA,@Elytra_Virtual
+YUUKI,YUUKI,@full_house_gg
+aether collective,AETHER,@aetherdotfun
+VoluMint,VMINT,@Volumint
+BROT,BROT,@blockrotbot
+DND,DND,@dndNGMI
+IF Science,IFSCI,@ifsci_ai
+MAI,MAI,@Mai_Protocol
+aiRight,AIRI,@aiRight_io
+Sage Market,SAGE,@sagestudiosai
+Senti AI,SENTI,@SentiAI_BNB
+AGENT DOGE by Virtuals,AIDOGE,@agentdoge007
+Emilia,EMILIA,@EmiliaDeFAi
+Isaac X,ISAACX,@IsaacXDiscovery
+JUST KIRA,KIRAI,@JustKiraTings
+NeurochainAI,NCN,N/A
+EIGENCODE,CODE,@eigencode_dev
+NOTMEME Agent,NOTMEME,@notmeme_app
 Finna AI,FINNA,N/A
-ghostwire,GWIRE,@ghostWIRE_SYS
-Synternet,SYNT,@synternet_com
-Skyops,SKYOPS,@SkyopsLabs
-Dessistant by Virtuals,DESS,@Dessistant
-FREGO,FREGO,@GetFrego
+Pollo,POLLO,@pollodotlol
+Mindscraft,MINDS,@MindscraftAI
+HedgewaterDAO,$HWTR,@HedgewaterDAO
+noderzz by Virtuals,NODE,@noderzzxyz
 Thales AI,THALES,@Thales_ai
-Agok,AGOK,@agok_ai
-Launch On USD1,L,@LaunchOnUSD1
+Unmarshal,MARSH,@Unmarshalai
+ThreatSlayerAI by Virtuals,SLAYER,@threatslayerAI
+Agora by Virtuals,AGORA,@AgoraAgent
+BRAZA by Virtuals,BRAZA,@BrazaAI
+Songjam by Virtuals,SANG,@songjamspace
 BitDoctorAI,AIDD,@BitDoctorAI
 SYLVI AGENT,SYLVIAI,@Sylvi_Agent
-noderzz by Virtuals,NODE,@noderzzxyz
-Agora by Virtuals,AGORA,@AgoraAgent
-Mindscraft,MINDS,@MindscraftAI
-PsyNova Token,PSY,@PsyNova_AI
-Songjam by Virtuals,SANG,@songjamspace
+FREGO,FREGO,@GetFrego
 Eye Future by Virtuals,EYE,@EyeFutureAI
-Tickeron,TICKERON,@Tickeron_Token
-Market Maverick,LUIGI,@LuigiRFRM
-Lola,LOLA,@lola_onchain
-Rick the NPC,RICK,@rickthenpc
-Crestal Nation,NATION,@crestalnetwork
-Victorai by Virtuals,VCTRAI,@Aigent_Victorai
-Bacon Protocol,BAC,@Bacon_Protocol
-ZerePy,ZEREPY,@ZerePyCommunity
-NazareAI,NAZAREAI,@nazareaicom
-aibeats,AIBEATS,@aibeatsfun
-VirtuBeauty by Virtuals,VBEA,@VirtuBeauty
 Leonardo AI,LEONAI,@Leonardo__AI
-Shopping.io,SPI,@shopping_io
-Neurashi,NEI,@Neurashi
-Dopamine,DOPE,@myDopamineApp
-Pillzumi,PILLZUMI,@pillzumi
-Citadel by Virtuals,CITDEL,@citadel_agent
-Lead Ai,LAI,@OfficialLeadAI
+SUI Desci Agents,DESCI,@DeSci_Agents
+Victorai by Virtuals,VCTRAI,@Aigent_Victorai
+Market Maverick,LUIGI,@LuigiRFRM
+Beat Matchmaker,BEAT,@BeatMatchmaker
+Tickeron,TICKERON,@Tickeron_Token
+Launch On USD1,L,@LaunchOnUSD1
+Dessistant by Virtuals,DESS,@Dessistant
+VirtuBeauty by Virtuals,VBEA,@VirtuBeauty
 OCADA.AI,OCADA,@ocada_ai
-HyperFly,FLY,@hyperflyai
-Bird.Money,BIRD,@_birdmoney
-Corporate Audit AI,AUDIT,@corpauditai
+Citadel by Virtuals,CITDEL,@citadel_agent
+ArcadiaOS,ARCOS,@ArcadiaOSAI
+KOLZ,KOLZ,@ChatKolz
+NazareAI,NAZAREAI,@nazareaicom
 2077 CODE,2077,@2077codes
-Saitoshi by Virtuals,SAI,@saitoshiagent
-Syntor Ai,TOR,@syntorai
-Redacted Terminal,███,@rndterminal
-Hash Hunter,HNTR,@hashhunterbot
-Artto AI,ARTTO,@artto_ai
-Druid AI,DRU,@DruidAi_APP
-CodEase,CODON,@CodEasePro
-AAAI_agent by Virtuals,AAAI,@aaai_agent
-ItronixAI,ITXS,@itronixAI
-Shipyard.bot,SHIPYARD,@ClaudeArchitect
+ZerePy,ZEREPY,@ZerePyCommunity
 SKAINET,SKAI,@skainetxyz
-NORA,NORA,@talktonora
-Crime Lizard,CLZD,@CrimeLizardBNB
-Internosaur,$INTERN,@Internosaur
-Boofus by Virtuals,BOOF,@AiBoofus
-Grafi,GRAFI,@Grafilab_io
-Animus,ANIMUS,@animusuno
-sentient memes producer,MEMETIC,@memeticink
-GIGABRAIN,GIGA🧠,@GigaBrainDotSo
-HyperAGI,HYPT,@HyperAGIAI
+Lola,LOLA,@lola_onchain
+Saitoshi by Virtuals,SAI,@saitoshiagent
 DeepCore AI,DPCORE,@DeepCore_io
-PipeIQ,PIPEIQ,@pipeIQai
-Lee Quid,LEE,@LeeQuid_AI
-Aiko by ElizaOS,AIKO,@ai16zaiko
-OSCA Stack,OSCA,@oscastack
-lenda on chain,LENDA,@lendaonchain
-Ambient AGI,AGI,@ambientagi_ai
-UIUI,UI,@uiui_wtf
-GemDetector.ai,GEMAI,@GemDetectorAI
-RIZZ,RIZZ,@rizzclubhq
-Curiso,CUR,@curisoai
-EraLabs,ERALAB,@EraLabs_AI
-Rosscoin,ROSSCOIN,@RealRossCoin
+Bacon Protocol,BAC,@Bacon_Protocol
+Internosaur,$INTERN,@Internosaur
+Pillzumi,PILLZUMI,@pillzumi
+Corporate Audit AI,AUDIT,@corpauditai
+Redacted Terminal,███,@rndterminal
+Rick the NPC,RICK,@rickthenpc
+Memeputer,MEMEPUTER,@memeputer
+Animus,ANIMUS,@animusuno
+OpMentis,OPM,@opmentis_ai
+cjft,CJFT,@_cjft
+aibeats,AIBEATS,@aibeatsfun
+Artto AI,ARTTO,@artto_ai
+AAAI_agent by Virtuals,AAAI,@aaai_agent
+Druid AI,DRU,@DruidAi_APP
+Boofus by Virtuals,BOOF,@AiBoofus
+Crime Lizard,CLZD,@CrimeLizardBNB
+VIBECOIN,VIBECOIN,N/A
+AVATAR UI,AUI,@Sikino_Sito
+sentient memes producer,MEMETIC,@memeticink
+Shipyard.bot,SHIPYARD,@ClaudeArchitect
+Syntor Ai,TOR,@syntorai
+GIGABRAIN,GIGA🧠,@GigaBrainDotSo
 Mizuki,MIZUKI,@_Mizuki_exe
-LUMI AGENT,LUMI,@lumiagent
-Just Juni by Virtuals,JUNI,@Storytime_Juni
+NORA,NORA,@talktonora
+PipeIQ,PIPEIQ,@pipeIQai
+OSCA Stack,OSCA,@oscastack
+Aetheron,AETH,@Aetheron402
+HyperAGI,HYPT,@HyperAGIAI
+The Blinking AI Cat - Catfather,CATF,@theblinkingcat
+Exodus AI,EXO,@AiExodus
+Ambient AGI,AGI,@ambientagi_ai
+ItronixAI,ITXS,@itronixAI
+Curiso,CUR,@curisoai
 NeuroStack,VISION,@NeuroStackAI
-Otto,$OTTO,@OttoOnChain
-Degenerator Project,GNRT,@GNRTtoken
-Ongo,ONGO,@ongo_ai
-ALRIS AGENT,ALR,@alrisagent
-Alchemist Accelerate,ALCH,@ALCHDAO
-Sentiient,SENT,@SentiientAI_
-SEDUX AI,SEDUX,@SeduxAIonSol
-Magnus Opus by Virtuals,MAGNUS,@MagnusOpusAI
-Agentify AI,AGF,@agentifyxyz
 Metadrip,DRIP,@metadripai
 ELIXIR AI,ELXAI,@elixir_sol
-Acid AI,ACID,@acidAIapp
-Riddle by Virtuals,RIDDLE,@riddledotfun
-FACELESS,FACELESS,@faceless_so
-Cerebrum,CBM,@cerebrumdev
-REPO ANALYZER AI,REPOALYZE,@repoanalyzer
-ailive,AILIVE,@ailiveco
-HedgewaterDAO,$HWTR,@HedgewaterDAO
-Quant Trader Agent,QUANTAGENT,@QuantAgent_
-Moltbook Town,TOWN,@ashen_one
+Lead Ai,LAI,@OfficialLeadAI
+Rosscoin,ROSSCOIN,@RealRossCoin
 REAL ESMATE by Virtuals,EMATE,@RealEsmate
-ECO AI,ECO,@ecoai_solana
-Bonsai Token,BONSAI,@onbonsai
-xFractal,FRACTAL,@xfractaldotfun
+Just Juni by Virtuals,JUNI,@Storytime_Juni
+AgentPad,AGENT,@AgentPad_Solana
+Ongo,ONGO,@ongo_ai
 SAG3.ai by Virtuals,SAG3,@SAG3_ai
-Exodus AI,EXO,@AiExodus
-CREATOR,CREATOR,@AICreatorSEO
-Ape Intelligence,AI,@InternLabs_AI
-CROY AI,CROY,@CROYTOOLS
-Artificial Isle Clams,CLAMS,@artificialisle
-Cyphomancer,42,@cyphomancer
-Rina By Arc,RINA,@Rina_RIG
-intellika AI,INTAI,@intellika_AI
-GoosepumpsAI,GOOSEPUMPS,@GoosepumpsAI
-Muhdo Hub,DNA,@Muhdohealth
-Flow Agent,FLOW,@flowagentapp
-Tensorium [OLD],TNSR,@AgentHustleAI
-Quasar,QUASAR,@quasarsocialai
-Paperclip AI,PAPERCLIPS,@Paperclip_AI
-Silentis,SILENTIS,@Silentisproject
-MORRIS,MORRIS,@morrisii_x
-Ask Brain,BRAIN,@askbrain_AI
-Bloomsperg Terminal,SPERG,@sperg_ai
-Universal Operating System [OLD],$UOS,@Universal_O_S
+ghostwire,GWIRE,@ghostWIRE_SYS
+LUMI AGENT,LUMI,@lumiagent
+Magnus Opus by Virtuals,MAGNUS,@MagnusOpusAI
+Riddle by Virtuals,RIDDLE,@riddledotfun
+RIZZ,RIZZ,@rizzclubhq
+UIUI,UI,@uiui_wtf
+ALRIS AGENT,ALR,@alrisagent
 SPY AI AGENT by Virtuals,SPYAI,@0xSpyai
-SHILLGUY,SHILL,@SHILLGUY_AI
-Solace AI,$SLCE,@solaceonsol
-WuAI,WUAI,@WuAI_Platform
-Moxie,MOXIE,@moxie_xyz
-STORAGENT,STORAGENT,@storagent
-Shift AI,SHIFT,@DeployShift
-Solify100,S100,@Solify100
-Pixel,PXL,@yourfriendpixel
-Flame,FLAME,@Flame__live
-Sigma Music,FAN,@SigmaXMusic
-Bubblebid,BBB,@bubble_bid
-Samsara.Build,SAMS,@samsara_build
-39a.fun,39A,@39adotfun
-SōzōAI,SOAI,@sozoai_sol
-DEXAI,DEXAI,@dexaicom
-Aesoperator,AESOPERATOR,@aesoperator
-Visual Workflow AI,FLOWAI,@Work_Flow_AI
-DocuSol,DOCUSOL,@docusol_
-Inferium,IFR,@InferiumAI
-Vicky,VICKY,@Vicky_popstar
-Waveform,WAVE,@waveformbackup
-Trump AI,$TRUMPAI,@Talk_to_trump
-ACORE AI Token,ACORE,@acore_ai
-WIDI,WIDI,@WIDITDOTFUN
-Soter,SOTER,@soterecosystem
-SuperFruits AI,SUPAI,@SuperfruitsAi
-KIGU,KIGU,@AgentKigu
-SproutAI,SPRT,N/A
-O-megax,O-MEGAX,@OmegaXhealth
-Agentik DEX,AGENTIK,@AgentikDex
+REPO ANALYZER AI,REPOALYZE,@repoanalyzer
+Cerebrum,CBM,@cerebrumdev
+Neurashi,NEI,@Neurashi
+EraLabs,ERALAB,@EraLabs_AI
+Muhdo Hub,DNA,@Muhdohealth
+SEDUX AI,SEDUX,@SeduxAIonSol
+xFractal,FRACTAL,@xfractaldotfun
+Dolphin Agent,DOLA,@Dolphin_Agent
+MORRIS,MORRIS,@morrisii_x
+ailive,AILIVE,@ailiveco
+Sentiient,SENT,@SentiientAI_
+Corvus Latimer,CORVUS,@CorvusLatimer
+MMOCoin,MMO,@MMOProOfficial
+Bloomsperg Terminal,SPERG,@sperg_ai
+GoosepumpsAI,GOOSEPUMPS,@GoosepumpsAI
+Universal Operating System [OLD],$UOS,@Universal_O_S
+ElizaBAO,ELIZABAO,@elizabaoxyz
+Paperclip AI,PAPERCLIPS,@Paperclip_AI
+Agentify AI,AGF,@agentifyxyz
+Huggi,HUGGI,@huggiapp
+Ape Intelligence,AI,@InternLabs_AI
+Oxai,OXAI,@OxaiNetwork
+intellika AI,INTAI,@intellika_AI
 Crazzers AI,CRAZZERS,@CrazzersAI
-0xsim by Virtuals,SAGE,@0xsim_agent
-Dojo Protocol,DOAI,@DOJOGPU
-Glades,GLDS,@GladesAI
-Yod Agent,YOD,@YodAgent
-SOLY AI,SOLY,@Soly_AI
-ALINA AI,ALINAINTEL,@alinaintel
-Cove Quant,COVE,@TheCoveQuant
-Casper AI,AIAGENT,@AI_CSPR
-Dealr.fun,DEALR,@Dealr_dotfun
+SHILLGUY,SHILL,@SHILLGUY_AI
+Tensorium [OLD],TNSR,@AgentHustleAI
+CREATOR,CREATOR,@AICreatorSEO
+Flow Agent,FLOW,@flowagentapp
+Quasar,QUASAR,@quasarsocialai
+Rina By Arc,RINA,@Rina_RIG
+CROY AI,CROY,@CROYTOOLS
+STORAGENT,STORAGENT,@storagent
+Solace AI,$SLCE,@solaceonsol
+FACELESS,FACELESS,@faceless_so
+Shift AI,SHIFT,@DeployShift
+Cyphomancer,42,@cyphomancer
+Artificial Isle Clams,CLAMS,@artificialisle
+Acid AI,ACID,@acidAIapp
+Ask Brain,BRAIN,@askbrain_AI
+WuAI,WUAI,@WuAI_Platform
+Deep Agents,DEEP,@deep_agents
+Samsara.Build,SAMS,@samsara_build
+Waveform,WAVE,@waveformbackup
+Inferium,IFR,@InferiumAI
+HyperFly,FLY,@hyperflyai
+Pixel,PXL,@yourfriendpixel
+Moltbook Town,TOWN,@ashen_one
+Silentis,SILENTIS,@Silentisproject
+SōzōAI,SOAI,@sozoai_sol
+Aesoperator,AESOPERATOR,@aesoperator
 Lillo AI,$LILLO,@Lillo_ai
-Miraya 7f,M7F,@miraya7f
-AgentMe,AGME,@0xHyperAGI
-RELIGN,RELIGN,@relignai
-SAIOS,SAI,@saios_app
+Vicky,VICKY,@Vicky_popstar
+WIDI,WIDI,@WIDITDOTFUN
 CAIRE,CAIRE,@CAIRE_Onchain
+0xsim by Virtuals,SAGE,@0xsim_agent
+Bubblebid,BBB,@bubble_bid
+DocuSol,DOCUSOL,@docusol_
+Lee Quid,LEE,@LeeQuid_AI
+Sigma Music,FAN,@SigmaXMusic
+Degenerator Project,GNRT,@GNRTtoken
+Solify100,S100,@Solify100
+SuperFruits AI,SUPAI,@SuperfruitsAi
+Pandora OS,PNDR,@pandoraos_xyz
+Visual Workflow AI,FLOWAI,@Work_Flow_AI
+ACORE AI Token,ACORE,@acore_ai
+DEXAI,DEXAI,@dexaicom
+Cove Quant,COVE,@TheCoveQuant
+Flare AI,FLARE,@flareai_xyz
+Agentik DEX,AGENTIK,@AgentikDex
+Flame,FLAME,@Flame__live
+AgentMe,AGME,@0xHyperAGI
 RivusDAO,RIVUS,N/A
 General Impressions,GEN,@gen_impressions
-Xerox Player Agent,XERAI,@PlayerXerox
 Tokito,TOKITO,@tokitoai
-BoltAI,BOLTAI,@BoltAI_X
-Safe Quantum Wallet,SQW,@SafeQuantumW
+ALINA AI,ALINAINTEL,@alinaintel
+SAIOS,SAI,@saios_app
+O-megax,O-MEGAX,@OmegaXhealth
+Elysionyx by Virtuals,ELYS,@Elysionyx_env
+Aiko by ElizaOS,AIKO,@ai16zaiko
+Dojo Protocol,DOAI,@DOJOGPU
+OmniMinds,OMNIS,@omnimindsai
+ECO AI,ECO,@ecoai_solana
+KIGU,KIGU,@AgentKigu
+Dealr.fun,DEALR,@Dealr_dotfun
+Yod Agent,YOD,@YodAgent
+JPOW AI,JPOW,@jpow_ai
 Maximize AI,MAXI,@maximize_ai
-OKBOK,OKBOK,@jeekrishana
 Moongate Fun,MGTAI,@moongatebsc
-Ringfence,RING,@RingfenceAI
-AI Trader Agent,AIT,@ait_agent
-PathOS,PATHOS,@pathos_agent
-Agenius,AGNS,@madnessdotfun
-chatXZI by AI,CXZI,@chatxzi
-minji,MINJI,@minji_aniverse
 Alice,ALICE,@alicecyberspace
-Vaultec,VLT,@VaultecNetwork
+Gabriel,GABRIEL,@Foundational_AI
+PathOS,PATHOS,@pathos_agent
+Glades,GLDS,@GladesAI
+AI Trader Agent,AIT,@ait_agent
+BoltAI,BOLTAI,@BoltAI_X
+Agenius,AGNS,@madnessdotfun
+Crestal Nation,NATION,@crestalnetwork
+Hash Hunter,HNTR,@hashhunterbot
+SproutAI,SPRT,N/A
 SimsAI,SIMSAI,@sims_ai
-Buildr,BLDR,@buildr_bot
-Flare AI,FLARE,@flareai_xyz
-ZALPHA,ZALPHA,@ZapAlpha_
-OX Labs,OXLABS,@OXLabsAI
-Dolphin Agent,DOLA,@Dolphin_Agent
-A.I Agent kAia,KAIA,@AiAgentkAia
-Typen,TYPEN,@0xtypen
+Soter,SOTER,@soterecosystem
 Sports Analyst AI,SPORT,@StaicySport
-Alice,ALICE,@askaliceai
+Buildr,BLDR,@buildr_bot
 FUNGI,FUNGI,@FungiAgents
-ZenMemory AI,ZMEN,@ZenMemoryAI
-DIGGER AI,DIGGAI,@Digger_AI_
-Julia Swarm Syndicate,JSS,@swarmsyndicate
-Claude,MCP,@mcpgpt
-1Hub.ai,1HUB,@1HubAI
-CLI.AI,CMD,@clidotcloud
-Mentat,SPICE,@AI_Mentat
-Out of body experience,OOBE,@OOBEonSol
-ModPanda,PANDA,@ModPandaaa
-Morpheus Infrastructure Node,MIND,@morpheuslabs_io
-Aetheron,AETH,@Aetheron402
-XEXAMAI,XEXAI,@i
-Yurei,YUREI,@yureiai
-Argo,ARGO,@Argo_workflow
-Scriptonia,SCRIPT,@Scriptonia_xyz
-EpiK Protocol,AIEPK,@EpikProtocol
+chatXZI by AI,CXZI,@chatxzi
+DilemmAI,DILEM,@DilemmAI_
+OX Labs,OXLABS,@OXLabsAI
+ZALPHA,ZALPHA,@ZapAlpha_
 Memecoin Sniping Solutions AI,$MESSA,@OxMESSA
-AGISTRY,AGI,@agistry_ai
-Prediction Arena,ARENA,@Pr3dictionAr3na
-ZenAI,ZEN,@xenai_xlayer
+Claw Mode,CLAW,@Clawmode
+CLI.AI,CMD,@clidotcloud
+A.I Agent kAia,KAIA,@AiAgentkAia
+Claude,MCP,@mcpgpt
+Out of body experience,OOBE,@OOBEonSol
+Typen,TYPEN,@0xtypen
+Julia Swarm Syndicate,JSS,@swarmsyndicate
+ModPanda,PANDA,@ModPandaaa
+1Hub.ai,1HUB,@1HubAI
+Mentat,SPICE,@AI_Mentat
+Scriptonia,SCRIPT,@Scriptonia_xyz
+Ensoul,ENSOUL,@ensoulac
+XEXAMAI,XEXAI,@i
+Quant Trader Agent,QUANTAGENT,@QuantAgent_
+Yurei,YUREI,@yureiai
 Eva AI Companion,EVA,N/A
-Baby Sen by Sentio,BSEN,@babysentio
+AGISTRY,AGI,@agistry_ai
 Agent4X,AGENT4X,@Agent4X_bsc
-Trebly,TREB,@TreblyAI
-CipherAI,CIPHER,@CipherAiToken
 Veilra by ElizaOS,VEILRA,@ai16zveilraos
-HyperSeed,HPR,@hyper_seed
-Pandora OS,PNDR,@pandoraos_xyz
-AIGG,$AIGG,@aigg_agent
-Osiris,OSIRI,FETCH_ERROR
-ETHforestAI,ETHFAI,FETCH_ERROR
-Repolite,REPOLITE,FETCH_ERROR
-Filter AI,FILTER,FETCH_ERROR
-Alpha Lens X,ALPHAX,FETCH_ERROR
-MemeHive AI,MHIVE,FETCH_ERROR
-SPLASH AI,SPLASH,FETCH_ERROR
-Yara AI,YARA,FETCH_ERROR
-ORCA,ORCAI,FETCH_ERROR
-Robert,ROBERT,FETCH_ERROR
-Haven,HAVEN,FETCH_ERROR
-INT OS,INTOS,FETCH_ERROR
-AIBattleGround,AIBG,FETCH_ERROR
-TENEX,SN67,FETCH_ERROR
-Trava Finance,TRAVA,FETCH_ERROR
-ReflectionAI,RECT,FETCH_ERROR
-SoundsRight,SN105,FETCH_ERROR
-Sora AI,SORA,FETCH_ERROR
-Reform DAO,RFRM,FETCH_ERROR
-AI Meta Club,AMC,FETCH_ERROR
-ZoRobotics,ZORO,FETCH_ERROR
-Iris Ecosystem,IRISTOKEN,FETCH_ERROR
-Solaris AI [OLD],SOLARIS,FETCH_ERROR
-BNV,FASH,FETCH_ERROR
-Quantum,QUANTUM,FETCH_ERROR
-Truebit Protocol,TRU,FETCH_ERROR
-QU3ai,QU3,FETCH_ERROR
-AID,AID,FETCH_ERROR
-Panchain,PC,FETCH_ERROR
-AIQuant.fun,AIQ,FETCH_ERROR
-GAIMIN,GMRX,FETCH_ERROR
-The Next Gem AI,GEMAI,FETCH_ERROR
-Archivium,ARCHIVE,FETCH_ERROR
-AppDuck by Virtuals,DUCK,FETCH_ERROR
-DIN,DIN,FETCH_ERROR
-Aiccelerate,AICC,FETCH_ERROR
-Adix,ADIX,FETCH_ERROR
-AGII,AGII,FETCH_ERROR
-xHashtag,XTAG,FETCH_ERROR
-Hybrid,HYB,FETCH_ERROR
-Nexa,NXA,FETCH_ERROR
-AIvalanche DeFAI Agents,AVAXAI,FETCH_ERROR
-BAD Coin [OLD],BADAI,FETCH_ERROR
-Alice,ALICE,FETCH_ERROR
-Staked TAO (Root),SN0,FETCH_ERROR
-TgMetrics [OLD],TGMETRICS,FETCH_ERROR
-Balance AI,BAI,FETCH_ERROR
-ZKCrypt AI,ZKAI,FETCH_ERROR
-AI Waifu,WAI,FETCH_ERROR
-SecureChain AI,SCAI,FETCH_ERROR
-Imagen Network (BSC),IMAGE,FETCH_ERROR
-NodeQAI,NQAI,FETCH_ERROR
-NeuroWeb,NEURO,FETCH_ERROR
-Legend,LEGEND,FETCH_ERROR
-2DAI.io[Old],2DAI,FETCH_ERROR
-Holdstation [OLD],HOLD,FETCH_ERROR
-Grindery X,GX,FETCH_ERROR
-SwarmNode.ai [OLD],SNAI,FETCH_ERROR
-Karma,KARMA/SOL,FETCH_ERROR
-Griffin AI [OLD],GAIN,FETCH_ERROR
-Lurky,LURKY,FETCH_ERROR
-FRACTRADE,FRAC,FETCH_ERROR
-Gracy,GRACY,FETCH_ERROR
-Aethra AI,AETHRA,FETCH_ERROR
-Functionland,FULA,FETCH_ERROR
-Cyberlife,LIFE,FETCH_ERROR
-Purple AI,PAI,FETCH_ERROR
-Matrix One,MATRIX,FETCH_ERROR
-Bubsy AI,BUBSY,FETCH_ERROR
-SUIA,SUIA,FETCH_ERROR
-OmegaX Health,OMEGAX,FETCH_ERROR
-SYMBaiEX,SYMX,FETCH_ERROR
-xLLM2,XLLM2,FETCH_ERROR
-Quantlytica,QTLX,FETCH_ERROR
-Project Ailey,ALE,FETCH_ERROR
-GoatIndex.ai,AIAI,FETCH_ERROR
-WienerAI,WAI,FETCH_ERROR
-DeFi Agents AI,DEFAI,FETCH_ERROR
-Aeris AI,AERIS,FETCH_ERROR
-Vectorspace AI X,VAIX,FETCH_ERROR
-Tenna by Virtuals,TENNA,FETCH_ERROR
-Baron Von Whiskers,BARON,FETCH_ERROR
-HyperCycle,HYPC,FETCH_ERROR
-Murasaki,MURA,FETCH_ERROR
-Bitcoin On Virtuals,BTCV,FETCH_ERROR
-Aether AI,AETHR,FETCH_ERROR
-nfinityAI,NFNT,FETCH_ERROR
-FX1Sports,FXI,FETCH_ERROR
-Friendly GIANT AI,GIANTAI,FETCH_ERROR
-Qeea AI,QEEA,FETCH_ERROR
-AIShare,AISHARE,FETCH_ERROR
-Reveel,REVA,FETCH_ERROR
-Ozak AI,OZ,FETCH_ERROR
-MoveAI,MAI,FETCH_ERROR
-OPZ,OPZ,FETCH_ERROR
-ChatXBT,CHATFI,FETCH_ERROR
-InteNet,INT,FETCH_ERROR
-Gopher,GOAI,FETCH_ERROR
-Gensyn,AI,FETCH_ERROR
-dTelecom,DTEL,FETCH_ERROR
-XPlus AI,XPAI,FETCH_ERROR
-ForU AI,FORU,FETCH_ERROR
-Kvants,KVAI,FETCH_ERROR
-iMonster Ai,IMON,FETCH_ERROR
-HarvestAI,BTH,FETCH_ERROR
-COGNI AI,COGNI,FETCH_ERROR
-Zesh AI Layer,ZAI,FETCH_ERROR
-Astrena AI,RENA,FETCH_ERROR
-Lumera,LUME,FETCH_ERROR
-Spawn Tools,SPAWN,FETCH_ERROR
-Phron AI,ZPHR,FETCH_ERROR
+Trebly,TREB,@TreblyAI
+CeluvPlay,CELB,@CeluvPlay
+Repolite,REPOLITE,@repoliteai
+Agok,AGOK,@agok_ai
+Ringfence,RING,@RingfenceAI
+Alpha Lens X,ALPHAX,@AlphaLensX
+EpiK Protocol,AIEPK,@EpikProtocol
+MemeHive AI,MHIVE,@MHive_AI
+SPLASH AI,SPLASH,@SuiSplashAi
+Yara AI,YARA,@yara_system
+ORCA,ORCAI,@ORCADEFAI
+INT OS,INTOS,@IntOSLabs
+Haven,HAVEN,@HavenLabs_
+Robert,ROBERT,@RobertAI_ERC20
+AIBattleGround,AIBG,@AiBattleGroundX
+Sparkle,SSS,@sparklefun2023
+aarna atv USDC (Base),ATVUSDC,@aarnasays
+FLock OFF,SN96,N/A
+TENEX,SN67,@Tenex_SN67
+Bitcoin On Virtuals,BTCV,@BTC_On_Virtuals
+BNV,FASH,@bnv_foundation
+Tenna by Virtuals,TENNA,@Tenna_virtuals
+Baron Von Whiskers,BARON,@BaronVonWhisk
+TgMetrics [OLD],TGMETRICS,@tgmetrics
+Balance AI,BAI,@Balance_AI
+The Next Gem AI,GEMAI,@NextGemAI
+AI Waifu,WAI,@aiwaifugg
+Alice,ALICE,@alicedotfun
+Vectorspace AI X,VAIX,@VectorSpaceBio
+AIvalanche DeFAI Agents,AVAXAI,@ai_avalanche
+Griffin AI [OLD],GAIN,@Griffin_AI
+xHashtag,XTAG,@xhashtagio
+Qeea AI,QEEA,@myqeea
+Hybrid,HYB,@BuildOnHybrid
+Truebit Protocol,TRU,@Truebitprotocol
+Solaris AI [OLD],SOLARIS,@SolarisAI_fun
+SingularityDAO,SDAO,@SingularityDao
+Nexa,NXA,@NexaAgent
+BAD Coin [OLD],BADAI,@badai_io
+Staked TAO (Root),SN0,N/A
+Dolphin,POD,@dphnAI
+ZoRobotics,ZORO,@zorotechnology
+Adix,ADIX,@AdixAI
+ZKCrypt AI,ZKAI,@ZKCryptAI
+Iris Ecosystem,IRISTOKEN,@Iris_token
+Reform DAO,RFRM,@reformdao
+SecureChain AI,SCAI,@SecureChainAI
+Imagen Network (BSC),IMAGE,N/A
+AID,AID,@aidav2_official
+NodeQAI,NQAI,@nodeqai_ETH
+NeuroWeb,NEURO,@NeuroWebAI
+Legend,LEGEND,@belegends_ok
+T A O S,TAOS,@Agent_T_A_O_S
+Holdstation [OLD],HOLD,@HoldstationW
+SoundsRight,SN105,N/A
+Grindery X,GX,@grindery_io
+ReflectionAI,RECT,@ReflectionAI_
+SwarmNode.ai [OLD],SNAI,@swarmnode
+Panchain,PC,@panchainnetwork
+FRACTRADE,FRAC,@fractrade_xyz
+Lurky,LURKY,@teamlurky
+Gracy,GRACY,@gracytoken
+Functionland,FULA,@functionland
+Aethra AI,AETHRA,@AethraAI
+DIN,DIN,@din_lol_
+Cyberlife,LIFE,@cyberlifegg
+Archivium,ARCHIVE,@Archivium_
+Quantum,QUANTUM,@qntmchain
+Aiccelerate,AICC,@aicceleratedao
+Matrix One,MATRIX,@MatrixOneAI
+Purple AI,PAI,@PurpleSquareAI
+CLECOIN,CLE,@clebusteam
+SUIA,SUIA,@Suia2023
+OmegaX Health,OMEGAX,@OmegaXhealth
+QU3ai,QU3,@qu3ai
+ForU AI,FORU,@foruai
+SYMBaiEX,SYMX,@SYMBiEX
+xLLM2,XLLM2,@xLLM2_AI
+Project Ailey,ALE,@aileyverse
+AIQuant.fun,AIQ,@aiquantfun
+WienerAI,WAI,@WienerDogAI
+DeFi Agents AI,DEFAI,@AIDefiAgents
+Aeris AI,AERIS,@AerisBscNew
+AppDuck by Virtuals,DUCK,@appduckai
+HyperCycle,HYPC,@Hypercycle_AI
+Murasaki,MURA,@IdolMurasaki
+Aether AI,AETHR,@AetherAI_
+ZIOX,ZIOX,@BIZAcoin
+GAIMIN,GMRX,@GAIMINglobal
+FX1Sports,FXI,@FX1Sports
+nfinityAI,NFNT,@nfinityAI
+AI Meta Club,AMC,@AIMetaClub
+AGII,AGII,@TheAGII
+iMonster Ai,IMON,@iMonsterAi
+Ozak AI,OZ,@OzakAGI
+dTelecom,DTEL,@dtelecom
+Friendly GIANT AI,GIANTAI,@GiantAI_agent
+Gensyn,AI,@gensynai
+Zesh AI Layer,ZAI,@ZeshApps
+Lumera,LUME,@lumera
+Databricks AI,DBRX,@databricks
+Spawn Tools,SPAWN,@spawntools
+Reveel,REVA,@r3vl_xyz
+OPZ,OPZ,@OPZ_Official
+ChatXBT,CHATFI,N/A
+Perle,PRL,@PerleLabs
+Gopher,GOAI,@gopher_ai
+Fightly.ai,FIGAI,@fightlyofficial
+AICre8,AICRE8,@AICre8_com
+XPlus AI,XPAI,@xplusai_
+Kvants,KVAI,@kvantsai
+Ava Protocol,AP,@ava_protocol
+GPT360,G360,@GPT360_Official
+MoveAI,MAI,@MoveAIOfficial
+InteNet,INT,@IntenetAI
+AIShare,AISHARE,@ai_shareai
+PathPulse,PULS,@PathPulse_ai
+Astrena AI,RENA,@astrenaai
+HarvestAI,BTH,@bitharvest_io
+COGNI AI,COGNI,@CogniAIAgents
